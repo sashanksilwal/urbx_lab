@@ -1,11 +1,24 @@
-/* ============================================
-   UVC Lab — Shared: Header, Footer, Utilities
-   ============================================ */
+/**
+ * main.js — Shared utilities for the UVC Lab website.
+ *
+ * This file is loaded on every page. It handles:
+ *   1. Rendering the site-wide navigation header
+ *   2. Rendering the site-wide footer
+ *   3. Providing a fetchData() helper to load JSON data files
+ *
+ * The header and footer are injected into <header id="site-header">
+ * and <footer id="site-footer"> elements present in each HTML page.
+ */
 
+/**
+ * Renders the navigation header.
+ * Highlights the current page's link based on the URL pathname.
+ */
 function renderHeader() {
   const path = window.location.pathname;
   const page = path.substring(path.lastIndexOf('/') + 1) || 'index.html';
 
+  // Define all nav links — add new pages here
   const links = [
     { href: 'index.html', label: 'Home' },
     { href: 'research.html', label: 'Research' },
@@ -27,7 +40,7 @@ function renderHeader() {
     </div>
   `;
 
-  // Mobile toggle
+  // Mobile hamburger menu toggle
   const toggle = document.querySelector('.nav-toggle');
   const navLinks = document.querySelector('.nav-links');
   if (toggle) {
@@ -37,6 +50,9 @@ function renderHeader() {
   }
 }
 
+/**
+ * Renders the site footer with lab info and copyright.
+ */
 function renderFooter() {
   document.getElementById('site-footer').innerHTML = `
     <div class="container">
@@ -46,14 +62,21 @@ function renderFooter() {
   `;
 }
 
-// Fetch JSON helper
+/**
+ * Fetches and parses a JSON file from the given path.
+ * All data files live in the data/ folder (e.g., 'data/publications.json').
+ *
+ * @param {string} path — Relative path to the JSON file
+ * @returns {Promise<any>} — Parsed JSON data
+ * @throws {Error} if the fetch fails (e.g., 404)
+ */
 async function fetchData(path) {
   const resp = await fetch(path);
   if (!resp.ok) throw new Error(`Failed to load ${path}`);
   return resp.json();
 }
 
-// Render on load
+// Initialize header and footer on every page load
 document.addEventListener('DOMContentLoaded', () => {
   renderHeader();
   renderFooter();

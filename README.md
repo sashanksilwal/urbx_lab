@@ -1,6 +1,6 @@
 # UVC Lab Website
 
-**Urban Visual Computing Lab** — Department of Computer Science, Purdue University
+**Urban Visual Computing Lab** - Department of Computer Science, Purdue University
 
 ## Quick Start
 
@@ -13,7 +13,7 @@ python3 -m http.server 8000
 
 ## How to Add Content
 
-All content is stored as JSON in the `data/` folder. Edit these files directly (via GitHub's web editor or locally) and push — no build step needed.
+All content is stored as JSON in the `data/` folder. Edit these files directly (via GitHub's web editor or locally) and push - no build step needed.
 
 ### Add a Publication
 
@@ -82,7 +82,7 @@ Add an entry to `data/awards.json`:
 ```json
 {
   "date": "2026-01-15",
-  "title": "Award Name — Conference/Org",
+  "title": "Award Name - Conference/Org",
   "description": "Details about the award.",
   "link": ""
 }
