@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Publications — UVC Lab</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header" id="site-header"></header>
+
+  <main class="page-content">
+    <div class="container">
+      <h1 class="section-title">Publications</h1>
+
+      <div class="pub-search-bar">
+        <select id="pub-field">
+          <option value="title">Title</option>
+          <option value="authors">Author</option>
+          <option value="venue">Venue</option>
+        </select>
+        <input type="text" id="pub-search" placeholder="Search publications...">
+        <span class="match-count" id="match-count"></span>
+      </div>
+
+      <div id="pubs-root"></div>
+      <div class="pagination" id="pagination"></div>
+    </div>
+  </main>
+
+  <footer class="site-footer" id="site-footer"></footer>
+  <script src="js/main.js"></script>
+  <script src="js/publications.js"></script>
+</body>
+</html>

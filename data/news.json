@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2026-04-01",
+    "title": "Paper accepted at Communications of the ACM",
+    "description": "Our paper \"Where Are the City Trees?\" on monitoring urban trees using generative AI has been accepted at CACM.",
+    "link": "publication.html?id=firoze2026-city-trees",
+    "type": "publication"
+  },
+  {
+    "date": "2026-03-15",
+    "title": "UVC Lab website launched",
+    "description": "We are excited to announce the launch of the Urban Visual Computing Lab website.",
+    "link": "",
+    "type": "general"
+  }
+]

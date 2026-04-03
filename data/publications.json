@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "firoze2026-city-trees",
+    "title": "Where Are the City Trees? Monitoring Urban Trees across the U.S. Using Generative AI",
+    "authors": "Firoze, A., Uppala, A., Darling, L., Yeh, R. A., Benes, B., Hardiman, B., Fei, S., & Aliaga, D.",
+    "venue": "Communications of the ACM",
+    "venueDetails": "69(4), 50–59",
+    "year": 2026,
+    "abstract": "Urban trees provide critical ecosystem services, yet comprehensive monitoring across the United States has remained elusive. This paper presents a novel approach using generative AI to monitor and map urban trees at an unprecedented scale, leveraging satellite imagery and deep learning techniques to identify, classify, and track changes in urban tree canopy coverage.",
+    "doi": "https://doi.org/10.1145/3762636",
+    "pdf": "",
+    "bibtex": "@article{firoze2026citytrees,\n  title={Where Are the City Trees? Monitoring Urban Trees across the U.S. Using Generative AI},\n  author={Firoze, A. and Uppala, A. and Darling, L. and Yeh, R. A. and Benes, B. and Hardiman, B. and Fei, S. and Aliaga, D.},\n  journal={Communications of the ACM},\n  volume={69},\n  number={4},\n  pages={50--59},\n  year={2026}\n}",
+    "thumbnail": "images/publications/city-trees.jpg",
+    "video": "",
+    "code": "",
+    "tags": ["urban", "generative-ai", "trees"]
+  },
+  {
+    "slug": "sample2025-urban-reconstruction",
+    "title": "Large-Scale Urban Scene Reconstruction from Aerial Imagery",
+    "authors": "Doe, J., Smith, A., & Aliaga, D.",
+    "venue": "ACM SIGGRAPH",
+    "venueDetails": "Proceedings, Article 42",
+    "year": 2025,
+    "abstract": "We present a method for reconstructing large-scale urban scenes from aerial imagery using a combination of neural radiance fields and procedural modeling techniques.",
+    "doi": "",
+    "pdf": "",
+    "bibtex": "@inproceedings{doe2025urban,\n  title={Large-Scale Urban Scene Reconstruction from Aerial Imagery},\n  author={Doe, J. and Smith, A. and Aliaga, D.},\n  booktitle={ACM SIGGRAPH},\n  year={2025}\n}",
+    "thumbnail": "",
+    "video": "",
+    "code": "",
+    "tags": ["urban", "reconstruction"]
+  }
+]

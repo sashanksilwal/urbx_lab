@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UVC Lab — Urban Visual Computing Lab</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header" id="site-header"></header>
+
+  <section class="hero">
+    <div class="container">
+      <p class="lab-full-name">Urban Visual Computing Lab</p>
+      <h1>UVC Lab</h1>
+      <p class="subtitle">Advancing research in urban modeling, visual computing, and computational methods at Purdue University's Department of Computer Science.</p>
+    </div>
+  </section>
+
+  <main class="page-content">
+    <div class="container">
+      <!-- Research Highlights -->
+      <div class="home-section">
+        <div class="home-section-header">
+          <h2>Research</h2>
+          <a href="research.html">View all projects &rarr;</a>
+        </div>
+        <div class="cards-grid" id="research-highlights"></div>
+      </div>
+
+      <!-- Latest Publications -->
+      <div class="home-section">
+        <div class="home-section-header">
+          <h2>Latest Publications</h2>
+          <a href="publications.html">View all publications &rarr;</a>
+        </div>
+        <div id="latest-publications"></div>
+      </div>
+
+      <!-- Latest News -->
+      <div class="home-section">
+        <div class="home-section-header">
+          <h2>Latest News</h2>
+          <a href="news.html">View all news &rarr;</a>
+        </div>
+        <div id="latest-news"></div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer" id="site-footer"></footer>
+  <script src="js/main.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      // Research highlights
+      try {
+        const projects = await fetchData('data/projects.json');
+        document.getElementById('research-highlights').innerHTML = projects.slice(0, 4).map(p => `
+          <div class="card">
+            ${p.image ? `<img class="card-img" src="${p.image}" alt="${p.title}" onerror="this.style.display='none'">` : '<div class="card-img" style="background:#e9ecef;display:flex;align-items:center;justify-content:center;color:#adb5bd;font-size:2rem;">&#9635;</div>'}
+            <div class="card-body">
+              <h3>${p.link ? `<a href="${p.link}">${p.title}</a>` : p.title}</h3>
+              <p>${p.description}</p>
+            </div>
+          </div>
+        `).join('');
+      } catch(e) { console.error('Failed to load projects:', e); }
+
+      // Latest publications
+      try {
+        const pubs = await fetchData('data/publications.json');
+        const sorted = pubs.sort((a, b) => b.year - a.year).slice(0, 5);
+        document.getElementById('latest-publications').innerHTML = sorted.map(p => `
+          <div class="pub-card">
+            ${p.thumbnail
+              ? `<img class="pub-thumb" src="${p.thumbnail}" alt="" onerror="this.style.display='none'">`
+              : `<div class="pub-thumb" style="display:flex;align-items:center;justify-content:center;background:#e9ecef;color:#adb5bd;font-size:1.5rem;">&#128196;</div>`}
+            <div class="pub-info">
+              <h3><a href="publication.html?id=${p.slug}">${p.title}</a></h3>
+              <p class="pub-citation">${p.authors} (${p.year}). ${p.title}. <em>${p.venue}</em>${p.venueDetails ? ', ' + p.venueDetails : ''}.</p>
+              <div class="pub-buttons">
+                ${p.bibtex ? `<button class="pub-btn" onclick="navigator.clipboard.writeText(\`${p.bibtex.replace(/`/g, '\\`')}\`);this.textContent='Copied!';setTimeout(()=>this.textContent='BibTeX',2000)">BibTeX</button>` : ''}
+                ${p.doi ? `<a class="pub-btn" href="${p.doi}" target="_blank">DOI</a>` : ''}
+                ${p.pdf ? `<a class="pub-btn" href="${p.pdf}" target="_blank">PDF</a>` : ''}
+              </div>
+            </div>
+          </div>
+        `).join('');
+      } catch(e) { console.error('Failed to load publications:', e); }
+
+      // Latest news
+      try {
+        const news = await fetchData('data/news.json');
+        const sorted = news.sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 5);
+        document.getElementById('latest-news').innerHTML = sorted.map(n => `
+          <div class="news-item">
+            <div class="news-date">${new Date(n.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</div>
+            <h3>${n.link ? `<a href="${n.link}">${n.title}</a>` : n.title}
+              <span class="news-type-badge ${n.type}">${n.type}</span>
+            </h3>
+            <p>${n.description}</p>
+          </div>
+        `).join('');
+      } catch(e) { console.error('Failed to load news:', e); }
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Daniel Aliaga",
+    "role": "Professor",
+    "category": "faculty",
+    "photo": "images/people/placeholder.jpg",
+    "bio": "Research in urban computing, computer graphics, and visual computing.",
+    "website": "",
+    "scholar": "",
+    "github": ""
+  },
+  {
+    "name": "Sashank Silwal",
+    "role": "PhD Student",
+    "category": "phd",
+    "photo": "images/people/placeholder.jpg",
+    "bio": "Research in urban visual computing.",
+    "website": "",
+    "scholar": "",
+    "github": ""
+  },
+  {
+    "name": "Past Student",
+    "role": "Former PhD Student (2020–2024)",
+    "category": "alumni",
+    "photo": "images/people/placeholder.jpg",
+    "bio": "Worked on computational archaeology.",
+    "website": "",
+    "scholar": "",
+    "github": ""
+  }
+]

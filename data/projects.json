@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Urban Projects",
+    "slug": "urban-projects",
+    "description": "Research on large-scale urban modeling, simulation, and visualization including city-scale reconstruction and analysis.",
+    "image": "images/projects/placeholder.jpg",
+    "link": "",
+    "tags": ["urban", "modeling"]
+  },
+  {
+    "title": "U-Tree",
+    "slug": "utree",
+    "description": "Monitoring and analyzing urban tree canopy across the United States using generative AI and remote sensing techniques.",
+    "image": "images/projects/placeholder.jpg",
+    "link": "",
+    "tags": ["urban", "trees", "ai"]
+  },
+  {
+    "title": "Computational Archaeology",
+    "slug": "computational-archaeology",
+    "description": "Applying computational methods and visual computing to archaeological site analysis, reconstruction, and preservation.",
+    "image": "images/projects/placeholder.jpg",
+    "link": "",
+    "tags": ["archaeology", "reconstruction"]
+  },
+  {
+    "title": "PERSEUS",
+    "slug": "perseus",
+    "description": "A comprehensive framework for urban scene understanding, reconstruction, and simulation at scale.",
+    "image": "images/projects/placeholder.jpg",
+    "link": "",
+    "tags": ["urban", "simulation"]
+  }
+]
