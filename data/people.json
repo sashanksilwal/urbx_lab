@@ -15,7 +15,7 @@
     "name": "Adnan Firoze",
     "role": "PhD Student",
     "category": "phd",
-    "photo": "images/people/adnan-firoze.png",
+    "photo": "images/people/adnan-firoze.jpg",
     "bio": "",
     "email": "",
     "website": "",
@@ -27,7 +27,7 @@
     "name": "Aocheng Li",
     "role": "PhD Student",
     "category": "phd",
-    "photo": "images/people/aocheng-li.png",
+    "photo": "images/people/aocheng-li.jpg",
     "bio": "",
     "email": "",
     "website": "",
@@ -48,16 +48,16 @@
     "github": ""
   },
   {
-    "name": "Ray Xu",
+    "name": "Ruiqi Xu",
     "role": "PhD Student",
     "category": "phd",
-    "photo": "images/people/ray-xu.png",
-    "bio": "",
-    "email": "",
-    "website": "",
-    "scholar": "",
-    "linkedin": "",
-    "github": ""
+    "photo": "images/people/ray-xu.JPG",
+    "bio": "Ruiqi is a PhD student in the Department of Computer Science at Purdue University. His interests focus on 3D/4D/video generative modeling. Ruiqi got his M.S. in Computer Science at Brown University, and his B.S. in Computer Science, Applied Mathematics, and Economics at Tufts University.",
+    "email": "xu2201@purdue.edu",
+    "website": "https://ruiqixu37.github.io/",
+    "scholar": "https://scholar.google.com/citations?user=jNmXsJwAAAAJ&hl=en",
+    "linkedin": "https://www.linkedin.com/in/ray-ruiqi-xu-820718192/",
+    "github": "https://github.com/ruiqixu37"
   },
   {
     "name": "Baris Tezcan",
