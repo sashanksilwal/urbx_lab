@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 
     // Update browser tab title to show publication name
-    document.title = `${pub.title} — UVC Lab`;
+    document.title = `${pub.title} — URBX Lab`;
 
     // Build the page HTML
     let html = `<h1>${pub.title}</h1>`;

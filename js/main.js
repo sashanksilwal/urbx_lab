@@ -1,5 +1,5 @@
 /**
- * main.js — Shared utilities for the UVC Lab website.
+ * main.js — Shared utilities for the URBX Lab website.
  *
  * This file is loaded on every page. It handles:
  *   1. Rendering the site-wide navigation header
@@ -34,7 +34,7 @@ function renderHeader() {
 
   document.getElementById('site-header').innerHTML = `
     <div class="nav-container">
-      <a href="index.html" class="nav-logo">UVC Lab</a>
+      <a href="index.html" class="nav-logo">URBX Lab</a>
       <button class="nav-toggle" aria-label="Toggle navigation">&#9776;</button>
       <ul class="nav-links">${navHTML}</ul>
     </div>
@@ -56,8 +56,8 @@ function renderHeader() {
 function renderFooter() {
   document.getElementById('site-footer').innerHTML = `
     <div class="container">
-      <p>Urban Visual Computing Lab (UVC Lab) &mdash; Department of Computer Science, Purdue University</p>
-      <p style="margin-top:0.5rem;">&copy; ${new Date().getFullYear()} UVC Lab. All rights reserved.</p>
+      <p>URBX Lab (Urban + X) &mdash; Department of Computer Science, Purdue University</p>
+      <p style="margin-top:0.5rem;">&copy; ${new Date().getFullYear()} URBX Lab. All rights reserved.</p>
     </div>
   `;
 }

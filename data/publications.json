@@ -8,7 +8,7 @@
     "year": 2026,
     "abstract": "A method for building instance segmentation in dense urban settlements, addressing challenges of closely packed structures in developing regions.",
     "doi": "https://doi.org/10.1609/aaai.v40i45.41187",
-    "pdf": "",
+    "pdf": "https://ojs.aaai.org/index.php/AAAI/article/view/41187/45148",
     "bibtex": "@inproceedings{Firoze26AAAI,\n  author = {Firoze, Adnan and Yeh, Raymond A. and Aliaga, Daniel G.},\n  title = {Building Instance Segmentation for Dense Urban Settlements},\n  booktitle = {AAAI Conference on Artificial Intelligence},\n  year = {2026}\n}",
     "thumbnail": "images/publications/firoze2026-building-segmentation.png",
     "video": "",
@@ -759,7 +759,7 @@
   {
     "slug": "fiser2016learning-learning-geometric-graph-grammars",
     "title": "Learning Geometric Graph Grammars",
-    "authors": "",
+    "authors": "Fiser, Marek and Benes, Bedrich and Galicia, Jorge Garcia and Abdul-Massih, Michel and Aliaga, Daniel G and Krs, Vojtech",
     "venue": "Proceedings of the 32Nd Spring Conference on Computer Graphics",
     "venueDetails": "7--15",
     "year": 2016,
@@ -845,7 +845,7 @@
   {
     "slug": "shin2015urban-urban-sensing-using-smartphones-for-transportation",
     "title": "Urban sensing: Using smartphones for transportation mode classification",
-    "authors": "",
+    "authors": "Shin, Dongyoun and Aliaga, Daniel and Tuncer, Bige and Arisona, Stefan Muller and Kim, Sungah and Zund, Dani and Schmitt, Gerhard",
     "venue": "Computers, Environment and Urban Systems",
     "venueDetails": "53, 76--86",
     "year": 2015,
@@ -1257,7 +1257,7 @@
   {
     "slug": "stava10cgf-inverse-procedural-modeling-by-automatic-generation",
     "title": "Inverse Procedural Modeling by Automatic Generation of L-systems",
-    "authors": "",
+    "authors": "Stava, Ondrej and Benes, Bedrich and Mech, Radomir and Aliaga, Daniel G and Kristof, Peter",
     "venue": "Computer Graphics Forum",
     "venueDetails": "29(2), 665--674",
     "year": 2010,

@@ -1,6 +1,6 @@
-# UVC Lab Website
+# URBX Lab Website
 
-**Urban Visual Computing Lab** - Department of Computer Science, Purdue University
+**URBX Lab — Urban + X** - Department of Computer Science, Purdue University
 
 ## Quick Start
 
