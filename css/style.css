@@ -1,5 +1,5 @@
 /* ============================================
-   UVC Lab — Urban Visual Computing Lab
+   URBX Lab — Urban + X
    Aesthetic: Urban-Architectural Editorial
    ============================================ */
 
@@ -93,6 +93,8 @@ img { max-width: 100%; height: auto; }
   gap: 0.25rem;
 }
 .nav-links a {
+  display: inline-block;
+  cursor: pointer;
   color: rgba(255,255,255,0.55);
   text-decoration: none;
   font-family: var(--font-display);
