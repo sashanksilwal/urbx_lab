@@ -1,34 +1,34 @@
 [
   {
-    "title": "Urban Projects",
-    "slug": "urban-projects",
-    "description": "Research on large-scale urban modeling, simulation, and visualization including city-scale reconstruction and analysis.",
-    "image": "images/projects/urban.jpg",
+    "title": "Generative & Procedural Modeling",
+    "slug": "generative-procedural-modeling",
+    "description": "Generative AI and procedural methods for synthesizing detailed 3D content, urban environments, and assets at scale.",
+    "image": "images/projects/generative.png",
     "link": "",
-    "tags": ["urban", "modeling"]
+    "tags": ["generative", "procedural", "modeling", "ai"]
   },
   {
-    "title": "U-Tree",
-    "slug": "utree",
-    "description": "Monitoring and analyzing urban tree canopy across the United States using generative AI and remote sensing techniques.",
-    "image": "images/projects/utree.jpg",
-    "link": "",
-    "tags": ["urban", "trees", "ai"]
-  },
-  {
-    "title": "Computational Archaeology",
-    "slug": "computational-archaeology",
-    "description": "Applying computational methods and visual computing to archaeological site analysis, reconstruction, and preservation.",
+    "title": "2D Imaging & 3D Reconstruction",
+    "slug": "imaging-3d-reconstruction",
+    "description": "Recovering geometry and structure from images, turning 2D photographs and sensor data into accurate 3D reconstructions.",
     "image": "images/projects/archaeology.jpg",
     "link": "",
-    "tags": ["archaeology", "reconstruction"]
+    "tags": ["imaging", "reconstruction", "3d", "vision"]
   },
   {
-    "title": "PERSEUS",
-    "slug": "perseus",
-    "description": "A comprehensive framework for urban scene understanding, reconstruction, and simulation at scale.",
-    "image": "images/projects/placeholder.jpg",
+    "title": "Geospatial Modeling",
+    "slug": "geospatial-modeling",
+    "description": "Modeling and analyzing large-scale geospatial data, remote sensing imagery, and the built and natural environment.",
+    "image": "images/projects/utree.jpg",
     "link": "",
-    "tags": ["urban", "simulation"]
+    "tags": ["geospatial", "remote-sensing", "modeling"]
+  },
+  {
+    "title": "Simulation for Visual Computing",
+    "slug": "simulation-visual-computing",
+    "description": "Physically based and data-driven simulation to drive realistic visual computing, animation, and urban-scale analysis.",
+    "image": "images/projects/simulation.png",
+    "link": "",
+    "tags": ["simulation", "visual-computing"]
   }
 ]
