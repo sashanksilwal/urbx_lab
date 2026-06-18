@@ -14,7 +14,8 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "imaging-3d-reconstruction",
+      "geospatial-modeling"
     ]
   },
   {
@@ -32,9 +33,8 @@
     "video": "",
     "code": "",
     "tags": [
-      "utree",
-      "urban-projects",
-      "generative-ai"
+      "geospatial-modeling",
+      "generative-procedural-modeling"
     ]
   },
   {
@@ -52,7 +52,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "computational-archaeology"
+      "imaging-3d-reconstruction"
     ]
   },
   {
@@ -69,7 +69,9 @@
     "thumbnail": "images/publications/May-EG-2023-CubeGAN.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "generative-procedural-modeling"
+    ]
   },
   {
     "slug": "patel_2023_pnas-deep-learning-based-urban-morphology-for",
@@ -86,7 +88,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "geospatial-modeling"
     ]
   },
   {
@@ -104,7 +106,8 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling",
+      "geospatial-modeling"
     ]
   },
   {
@@ -122,7 +125,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling"
     ]
   },
   {
@@ -139,7 +142,9 @@
     "thumbnail": "images/publications/Song-CVPR-2023-object.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "generative-procedural-modeling"
+    ]
   },
   {
     "slug": "mathew23cgf-sketching-vocabulary-for-crowd-motion",
@@ -155,7 +160,9 @@
     "thumbnail": "images/publications/Gaillard-Computer_Graphics_Forum-2023-Sketching_Vocabulary_for_Crowd_Motion.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "simulation-visual-computing"
+    ]
   },
   {
     "slug": "firoze_2023_cvpr-tree-instance-segmentation-with-temporal-contour",
@@ -172,7 +179,8 @@
     "video": "",
     "code": "",
     "tags": [
-      "utree"
+      "imaging-3d-reconstruction",
+      "geospatial-modeling"
     ]
   },
   {
@@ -190,7 +198,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling"
     ]
   },
   {
@@ -208,7 +216,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "geospatial-modeling"
     ]
   },
   {
@@ -225,7 +233,9 @@
     "thumbnail": "images/publications/Yu_2022_Visual-Computer_Preemptive-Text-Warping-Prevent-Motion-Blur.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "2022eg_zhang_proceduralroofs-procedural-roof-generation-from-a-single",
@@ -242,7 +252,8 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling",
+      "geospatial-modeling"
     ]
   },
   {
@@ -260,7 +271,8 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "imaging-3d-reconstruction",
+      "geospatial-modeling"
     ]
   },
   {
@@ -278,8 +290,8 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects",
-      "utree"
+      "generative-procedural-modeling",
+      "geospatial-modeling"
     ]
   },
   {
@@ -297,7 +309,8 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling",
+      "geospatial-modeling"
     ]
   },
   {
@@ -315,7 +328,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "geospatial-modeling"
     ]
   },
   {
@@ -332,7 +345,9 @@
     "thumbnail": "images/publications/TVCG_2021_Chris_Video_Folding_Increased_Framerate_for_Semi-Repetitive_Sequences.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "mathew20cag-an-output-driven-approach-to-design",
@@ -349,7 +364,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "simulation-visual-computing"
     ]
   },
   {
@@ -366,7 +381,9 @@
     "thumbnail": "images/publications/Bhatt-PEARC-2020-Design_and_Deployment_of_Photo2Building.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "generative-procedural-modeling"
+    ]
   },
   {
     "slug": "mathew20i3d-interactive-inverse-spatio-temporal-crowd-motion",
@@ -382,7 +399,9 @@
     "thumbnail": "images/publications/Mathew-2020-Interactive_Inverse_Spatio-Temporal_Crowd_Motion_Design-thumbnail.png",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "simulation-visual-computing"
+    ]
   },
   {
     "slug": "zhang2020progressive-progressive-regularization-of-satellite-based-3d",
@@ -399,7 +418,8 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "imaging-3d-reconstruction",
+      "geospatial-modeling"
     ]
   },
   {
@@ -417,7 +437,8 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling",
+      "geospatial-modeling"
     ]
   },
   {
@@ -435,7 +456,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "geospatial-modeling"
     ]
   },
   {
@@ -453,7 +474,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "geospatial-modeling"
     ]
   },
   {
@@ -470,7 +491,9 @@
     "thumbnail": "images/publications/Nishida-Eurographics-2019-Multi_Pose_Intractive_Linkage_Design.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "generative-procedural-modeling"
+    ]
   },
   {
     "slug": "ching2019pathway-pathway-using-wudapt-s-digital-synthetic",
@@ -487,7 +510,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "geospatial-modeling"
     ]
   },
   {
@@ -505,7 +528,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "simulation-visual-computing"
     ]
   },
   {
@@ -523,7 +546,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "simulation-visual-computing"
     ]
   },
   {
@@ -541,7 +564,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling"
     ]
   },
   {
@@ -559,7 +582,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "geospatial-modeling"
     ]
   },
   {
@@ -576,7 +599,9 @@
     "thumbnail": "images/publications/Ilke-2018-Near-convex_decomposition_and_layering_for_efficient_3D_printing-thumbnail.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "mustafa2018procedural-procedural-generation-of-flood-sensitive-urban",
@@ -593,7 +618,8 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling",
+      "geospatial-modeling"
     ]
   },
   {
@@ -611,7 +637,8 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling",
+      "imaging-3d-reconstruction"
     ]
   },
   {
@@ -629,7 +656,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "geospatial-modeling"
     ]
   },
   {
@@ -647,7 +674,8 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "simulation-visual-computing",
+      "generative-procedural-modeling"
     ]
   },
   {
@@ -665,7 +693,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "geospatial-modeling"
     ]
   },
   {
@@ -683,7 +711,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling"
     ]
   },
   {
@@ -701,7 +729,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "geospatial-modeling"
     ]
   },
   {
@@ -719,7 +747,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling"
     ]
   },
   {
@@ -737,7 +765,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling"
     ]
   },
   {
@@ -754,7 +782,9 @@
     "thumbnail": "images/publications/Aliaga-2016-Inverse_Procedural_Modeling_of_3D_Models_for_Virtual_Worlds-thumbnail.png",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "generative-procedural-modeling"
+    ]
   },
   {
     "slug": "fiser2016learning-learning-geometric-graph-grammars",
@@ -770,7 +800,9 @@
     "thumbnail": "images/publications/Fiser-2016-Learning_Geometric_Graph_Grammars-thumbnail.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "generative-procedural-modeling"
+    ]
   },
   {
     "slug": "demir2016proceduralization-proceduralization-for-editing-3d-architectural-models",
@@ -787,7 +819,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling"
     ]
   },
   {
@@ -804,7 +836,9 @@
     "thumbnail": "images/publications/Montalto-ACM-2015-A_Total_Variation_Approach_for_Customizing_Imagery_To_Imrpove_Visual_Acuity.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "demir15tog-coupled-segmentation-and-similarity-detection-for",
@@ -821,7 +855,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "imaging-3d-reconstruction"
     ]
   },
   {
@@ -839,7 +873,8 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling",
+      "imaging-3d-reconstruction"
     ]
   },
   {
@@ -857,7 +892,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "geospatial-modeling"
     ]
   },
   {
@@ -875,7 +910,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "simulation-visual-computing"
     ]
   },
   {
@@ -893,7 +928,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling"
     ]
   },
   {
@@ -911,7 +946,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling"
     ]
   },
   {
@@ -929,7 +964,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "imaging-3d-reconstruction"
     ]
   },
   {
@@ -946,7 +981,9 @@
     "thumbnail": "images/publications/Bedrich-2013-Foreword_to_special_section_on_advances_in_procedural_modeling-thumbnail.gif",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "generative-procedural-modeling"
+    ]
   },
   {
     "slug": "aliaga2013visualization-visualization-based-decision-tool-for-urban",
@@ -963,7 +1000,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "geospatial-modeling"
     ]
   },
   {
@@ -981,7 +1018,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling"
     ]
   },
   {
@@ -999,7 +1036,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "imaging-3d-reconstruction"
     ]
   },
   {
@@ -1017,7 +1054,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "imaging-3d-reconstruction"
     ]
   },
   {
@@ -1034,7 +1071,9 @@
     "thumbnail": "images/publications/Aliaga-ACM-2012-Fast_High_Resolution_Appearance_Using_Superimposed_Projections.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "chao2012hiding-hiding-a-second-appearance-in-a",
@@ -1050,7 +1089,9 @@
     "thumbnail": "images/publications/Chao-LNCS-2012-Hiding_a_Second_Appearance_in_a_Physical_Relief_Surface.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "vanegas12tog-inverse-design-of-urban-procedural-models",
@@ -1067,7 +1108,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling"
     ]
   },
   {
@@ -1085,7 +1126,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling"
     ]
   },
   {
@@ -1102,7 +1143,9 @@
     "thumbnail": "images/publications/Law-IEEE-2012-Spartial_Augmented_Reality_for_Environmentally_Lit_Real_world_Object.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "pamplona2012tailored-tailored-displays-to-compensate-for-visual",
@@ -1118,7 +1161,9 @@
     "thumbnail": "images/publications/Pamplona-ACM-2012-Tailored_Displays_to_Compensate_for_Visual_Aberrations.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliaga2011decho-decho-a-framework-for-the-digital",
@@ -1135,7 +1180,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "computational-archaeology"
+      "imaging-3d-reconstruction"
     ]
   },
   {
@@ -1152,7 +1197,9 @@
     "thumbnail": "images/publications/Law-CGF-2011-Perceptually_Based_Appearance_Modification.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "zhang2011pose-pose-free-structure-from-motion-using",
@@ -1168,7 +1215,9 @@
     "thumbnail": "images/publications/Zhang-IEEE-2011-Post_Free_Structure_From_Motion_Using_Depth_From_Motion_Constraints.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "law2011single-single-viewpoint-model-completion-of-symmetric",
@@ -1184,7 +1233,9 @@
     "thumbnail": "images/publications/Law-Comp_View_Img_Und-2011-Single_Viewpoint-Model_completion_of_Symmetric_Object.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "benes11i3d-urban-ecosystem-design",
@@ -1201,7 +1252,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling"
     ]
   },
   {
@@ -1218,7 +1269,9 @@
     "thumbnail": "images/publications/Aliaga-IEEE-2010-A_Self_Calibrating_Method_for_Phtogeometric_Acquisition.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "vanegas10cvpr-building-reconstruction-using-manhattan-world-grammars",
@@ -1235,7 +1288,8 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "imaging-3d-reconstruction",
+      "generative-procedural-modeling"
     ]
   },
   {
@@ -1252,7 +1306,9 @@
     "thumbnail": "images/publications/Xu-IEEE-2010-High_Resolution_Modeling_of_Moving_and_Deforming_Objects.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "stava10cgf-inverse-procedural-modeling-by-automatic-generation",
@@ -1268,7 +1324,9 @@
     "thumbnail": "images/publications/Stava-2010-Inverse_Procedural_Modeling_by_Automatic_Generation_of_L-systems-thumbnail.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "generative-procedural-modeling"
+    ]
   },
   {
     "slug": "vanegas2010modelling-modelling-the-appearance-and-behaviour-of",
@@ -1285,7 +1343,8 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling",
+      "simulation-visual-computing"
     ]
   },
   {
@@ -1302,7 +1361,9 @@
     "thumbnail": "images/publications/Law-IEEE-2010-Projecter_Placement_Planning_for_HQ_Visualization_on_rw_colored_objects.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliaga2009framework-a-framework-for-modeling-3d-scenes",
@@ -1318,7 +1379,9 @@
     "thumbnail": "images/publications/Aliaga-ACM-2009-A_framework_For_Modeling_3D_Scene.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "xu2009adaptive-an-adaptive-correspondence-algorithm-for-modeling",
@@ -1334,7 +1397,9 @@
     "thumbnail": "images/publications/Xu-IEEE-2009-An_Adaptive_Correspondence_Algorithm_for_Modeling-Scenes.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliaga2009genuinity-genuinity-signatures-designing-signatures-for-verifying",
@@ -1350,7 +1415,9 @@
     "thumbnail": "images/publications/Aliaga-Eurographic-2009-Genuinity_Signatures.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "vanegas09tog-interactive-design-of-urban-spaces-using",
@@ -1367,7 +1434,8 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling",
+      "simulation-visual-computing"
     ]
   },
   {
@@ -1384,7 +1452,9 @@
     "thumbnail": "images/publications/Xu-IEEE-2009-Modeling_Repetitive_Motion_Using_Structured_light.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "vanegas09tvcg-visualization-of-simulated-urban-spaces-inferring",
@@ -1401,7 +1471,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling"
     ]
   },
   {
@@ -1418,7 +1488,9 @@
     "thumbnail": "images/publications/Aliaga-SIGGRAPHASIA-2008-A_Virtual_Restoration_Stage_for_Real-world_objects.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliaga2008digital-digital-inspection-an-interactive-stage-for",
@@ -1434,7 +1506,9 @@
     "thumbnail": "images/publications/Aliaga-I3D-2008-Digital_Inspection.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliaga08tog-interactive-example-based-urban-layout-synthesis",
@@ -1451,7 +1525,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling"
     ]
   },
   {
@@ -1469,7 +1543,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling"
     ]
   },
   {
@@ -1486,7 +1560,9 @@
     "thumbnail": "images/publications/Aliaga-IEEE-2008-Photogeometric_Structured_Light.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "xu2007dense-dense-depth-and-color-acquisition-of",
@@ -1502,7 +1578,9 @@
     "thumbnail": "images/publications/Xu-IEEE-2007-Dense_Depth_and_Color_Acquisition_of_Repetitive_Motions.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "xu2007efficient-efficient-multi-viewpoint-acquisition-of-3d",
@@ -1518,7 +1596,9 @@
     "thumbnail": "images/publications/Xu-I3D-2007-Efficient_Multi-viewpoint_Acquisition_of_3D_Objects_Undergoing_repetitive_Motions.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliaga2007occlusion-occlusion-resistant-camera-design-for-acquiring",
@@ -1534,7 +1614,9 @@
     "thumbnail": "images/publications/Aliaga-2007-Occlusion-resistant_camera_design_for_acquiring_active_environme-thumbnail.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "xu2007robust-robust-pixel-classification-for-3d-modeling",
@@ -1550,7 +1632,9 @@
     "thumbnail": "images/publications/Xu-GI-2008-Robust_Pixel_Classification_for_3D_Modeling_with_Structured_Light.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliaga2007simplifying-simplifying-the-reconstruction-of-3d-models",
@@ -1566,7 +1650,9 @@
     "thumbnail": "images/publications/Aliaga-IEEE-2007-Simplifying_the_Reconstruction_of_3D_Models_Using_Parameter_Elimination.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliaga2007style-style-grammars-for-interactive-visualization-of",
@@ -1583,7 +1669,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "generative-procedural-modeling"
     ]
   },
   {
@@ -1600,7 +1686,9 @@
     "thumbnail": "images/publications/Zhang-Visual_Communication-2007-Variable_Elimination_for_3D_from_2D.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliagacollaborative-a-collaborative-undergraduate-course-for-pen",
@@ -1632,7 +1720,9 @@
     "thumbnail": "images/publications/Zhang-IEEE-2006-Angle-Independent_Bundle_Adjustment_Refinement.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliaga2006image-image-warping-for-compressing-and-spatially",
@@ -1648,7 +1738,9 @@
     "thumbnail": "images/publications/Aliaga-2006-Image_warping_for_compressing_and_spatially_organizing_a_dense_c-thumbnail.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "boutin2006improving-improving-the-numerical-stability-of-structure",
@@ -1664,7 +1756,9 @@
     "thumbnail": "images/publications/Boutin-SPIE-2006-Improving_the_Numerical_Stability_Of_Structure_from_Motion.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliaga2006lag-lag-camera-a-moving-multi-camera",
@@ -1680,7 +1774,9 @@
     "thumbnail": "images/publications/Aliaga-2006-Lag_camera_A_moving_multi-camera_array_for_scene-acquisition-thumbnail.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "bekins2006mixed-mixed-reality-tabletop-mrt-a-low",
@@ -1696,7 +1792,9 @@
     "thumbnail": "images/publications/Bekins-IEEE-2006-Mixed_Reality_Tabeltop.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "zhang2006robust-robust-bundle-adjustment-for-structure-from",
@@ -1712,7 +1810,9 @@
     "thumbnail": "images/publications/Zhang-IEEE-2006-Robust_Bundle_Adjustment_For_Structure_From_Motion.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "popescu2006depth-the-depth-discontinuity-occlusion-camera",
@@ -1728,7 +1828,9 @@
     "thumbnail": "images/publications/Popescu-2006-The_depth_discontinuity_occlusion_camera-thumbnail.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "popescu2006three-three-dimensional-display-rendering-acceleration-using",
@@ -1744,7 +1846,9 @@
     "thumbnail": "images/publications/Popescu-2006-Three-dimensional_display_rendering_acceleration_using_occlusion-thumbnail.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliaga2005spatial-a-spatial-image-hierarchy-for-compression",
@@ -1760,7 +1864,9 @@
     "thumbnail": "images/publications/Aliaga-IEEE-2005-A_Spatial_Image_Hierarchy_For_Compression_in_Image_Based_Rendering.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "bekins2005build-build-by-number-rearranging-the-real",
@@ -1777,7 +1883,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "imaging-3d-reconstruction"
     ]
   },
   {
@@ -1794,7 +1900,9 @@
     "thumbnail": "images/publications/Aliaga-IEEE-2003-Fiducial_Planning_for_Error_Bounded_Pose_Estimation_of_a_Panoramic_Camera.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliaga2003interactive-interactive-image-based-rendering-using-feature",
@@ -1810,7 +1918,9 @@
     "thumbnail": "images/publications/Aliaga-I3D-2003-Interactive_Image_Based_Rendering_Using_Feature_globalization.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliaga2002sea-sea-of-images",
@@ -1826,7 +1936,9 @@
     "thumbnail": "images/publications/Aliaga-IEEE-2003-Sea_of_Images.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliaga2001accurate-accurate-catadioptric-calibration-for-real-time",
@@ -1842,7 +1954,9 @@
     "thumbnail": "images/publications/Aliaga-IEEE-2001-A_Accurate_Catadioptric_Calibration_For_Real_time_pose_Estimation_In_Room-size_Environments.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "cohen2001hybrid-hybrid-simplification-combining-multi-resolution-polygon",
@@ -1858,7 +1972,9 @@
     "thumbnail": "images/publications/Cohen-IEEE-2001-Combining_Multi_resolution_Polygon_and_Point_rendering.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliaga2001plenoptic-plenoptic-stitching-a-scalable-method-for",
@@ -1874,7 +1990,9 @@
     "thumbnail": "images/publications/Aliaga-SIGGRAPH-2001-Plenoptic_Stitching.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliaga1999automatic-automatic-image-placement-to-provide-a",
@@ -1890,7 +2008,9 @@
     "thumbnail": "images/publications/Aliaga-SIGGRAPH-1999-Automatic_Image_Placement_to_Provide_A_Guaranteed_Frame_Rate.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliaga1999mmr-mmr-an-interactive-massive-model-rendering",
@@ -1906,7 +2026,9 @@
     "thumbnail": "images/publications/Aliaga-I3D-1999-An_interactive_Massive_Model_Rendering_System_Using_Geometric_and_image_based_acceleration.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "rafferty19983d-3d-image-warping-in-architectural-walkthroughs",
@@ -1923,7 +2045,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "imaging-3d-reconstruction"
     ]
   },
   {
@@ -1941,7 +2063,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "imaging-3d-reconstruction"
     ]
   },
   {
@@ -1959,7 +2081,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "imaging-3d-reconstruction"
     ]
   },
   {
@@ -1976,7 +2098,9 @@
     "thumbnail": "images/publications/Aliaga-Comp&Graph-1998-Smooth_Transitions_in_Texture_Based_Simplification.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliaga1997architectural-architectural-walkthroughs-using-portal-textures",
@@ -1993,7 +2117,7 @@
     "video": "",
     "code": "",
     "tags": [
-      "urban-projects"
+      "imaging-3d-reconstruction"
     ]
   },
   {
@@ -2010,7 +2134,9 @@
     "thumbnail": "images/publications/Aliaga-ACM-1997-Virtual_Objects_in_the_Real_World.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliaga1996visualization-visualization-of-complex-models-using-dynamic",
@@ -2026,7 +2152,9 @@
     "thumbnail": "images/publications/Aliaga-IEEE-1996-Visualization_of_Complex_models_Using_Dynamic_Texture_based_Simplification.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliaga1994virtual-virtual-and-real-object-collisions-in",
@@ -2042,7 +2170,9 @@
     "thumbnail": "images/publications/Aliaga-VRST-1994-Virual_and_Real_Object_Collisions_In_a_Merged_Environment.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "imaging-3d-reconstruction"
+    ]
   },
   {
     "slug": "aliaga1993prototyping-prototyping-of-graphing-tools-by-direct",
@@ -2074,6 +2204,8 @@
     "thumbnail": "images/publications/Zeleznik-SIGGRAPH-1991-An_Object_Oriented_Framework_for_the_Integration_of_interactive_Animation_Technique.jpg",
     "video": "",
     "code": "",
-    "tags": []
+    "tags": [
+      "simulation-visual-computing"
+    ]
   }
 ]

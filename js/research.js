@@ -5,7 +5,7 @@
  * as a clickable card in a responsive grid.
  *
  * Clicking a project card navigates to the publications page filtered
- * by that project's slug (e.g., publications.html?tag=utree).
+ * by that project's slug (e.g., publications.html?tag=geospatial-modeling).
  * This works because publications in publications.json have a "tags"
  * array that includes the project slug.
  *

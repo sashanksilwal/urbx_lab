@@ -4,7 +4,7 @@
  * Features:
  *   - Loads all publications from data/publications.json
  *   - Search/filter by title, author, or venue via the search bar
- *   - Filter by tag via URL param (e.g., ?tag=utree) — used when
+ *   - Filter by tag via URL param (e.g., ?tag=geospatial-modeling) — used when
  *     clicking a research project card on the research page
  *   - Groups publications by year (newest first)
  *   - Pagination (25 per page)
