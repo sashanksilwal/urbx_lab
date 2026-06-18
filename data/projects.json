@@ -3,7 +3,7 @@
     "title": "Generative & Procedural Modeling",
     "slug": "generative-procedural-modeling",
     "description": "Generative AI and procedural methods for synthesizing detailed 3D content, urban environments, and assets at scale.",
-    "image": "images/projects/generative.png",
+    "image": "images/projects/generative.jpg",
     "link": "",
     "tags": ["generative", "procedural", "modeling", "ai"]
   },
@@ -27,7 +27,7 @@
     "title": "Simulation for Visual Computing",
     "slug": "simulation-visual-computing",
     "description": "Physically based and data-driven simulation to drive realistic visual computing, animation, and urban-scale analysis.",
-    "image": "images/projects/simulation.png",
+    "image": "images/projects/simulation.jpg",
     "link": "",
     "tags": ["simulation", "visual-computing"]
   }
