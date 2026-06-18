@@ -1,0 +1,2 @@
+# Block web access to git metadata (repo is on GitHub; no need to serve .git)
+RedirectMatch 404 /\.git(/|$)
