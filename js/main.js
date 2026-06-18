@@ -56,7 +56,7 @@ function renderHeader() {
 function renderFooter() {
   document.getElementById('site-footer').innerHTML = `
     <div class="container">
-      <p>URBX Lab (Urban + X) &mdash; Department of Computer Science, Purdue University</p>
+      <p>URBX Lab (Urban + X), Department of Computer Science, Purdue University</p>
       <p style="margin-top:0.5rem;">&copy; ${new Date().getFullYear()} URBX Lab. All rights reserved.</p>
     </div>
   `;
