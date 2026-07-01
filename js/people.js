@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       { key: 'phd', label: 'PhD Students' },
       { key: 'ms', label: 'MS Students' },
       { key: 'undergrad', label: 'Undergraduate Researchers' },
-      { key: 'alumni', label: 'Alumni & Past Members' },
+      { key: 'alumni', label: 'Former Members' },
     ];
 
     // Build the grid HTML for each category
@@ -115,7 +115,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         </div>
       </div>
       ${links.length > 0 ? `<div class="modal-links">${links.join('')}</div>` : '<div style="border-bottom:1px solid rgba(255,255,255,0.15);margin-bottom:1.25rem;padding-bottom:1.25rem;"></div>'}
-      ${person.bio ? `<div class="modal-bio"><p>${person.bio}</p></div>` : '<div class="modal-bio" style="opacity:0.5;"><p>Bio coming soon.</p></div>'}
+      ${person.bio ? `<div class="modal-bio"><p>${person.bio}</p></div>` : ''}
     `;
 
     modal.classList.add('open');
