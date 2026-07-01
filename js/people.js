@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       { key: 'phd', label: 'PhD Students' },
       { key: 'ms', label: 'MS Students' },
       { key: 'undergrad', label: 'Undergraduate Researchers' },
-      { key: 'alumni', label: 'Former Students' },
+      { key: 'alumni', label: 'Former Members' },
     ];
 
     // Build the grid HTML for each category
