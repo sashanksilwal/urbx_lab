@@ -23,7 +23,7 @@
     "title": "Where Are the City Trees? Monitoring Urban Trees across the U.S. Using Generative AI",
     "authors": "Firoze, A., Uppala, A., Darling, L., Yeh, R. A., Benes, B., Hardiman, B., Fei, S., & Aliaga, D.",
     "venue": "Communications of the ACM",
-    "venueDetails": "69(4), 50\u201359",
+    "venueDetails": "69(4), 50–59",
     "year": 2026,
     "abstract": "Urban trees provide critical ecosystem services, yet comprehensive monitoring across the United States has remained elusive. This paper presents a novel approach using generative AI to monitor and map urban trees at an unprecedented scale, leveraging satellite imagery and deep learning techniques.",
     "doi": "https://doi.org/10.1145/3762636",
@@ -444,14 +444,14 @@
   {
     "slug": "wudapt_2020_ching-the-wudapt-approach-towards-supporting-multi",
     "title": "The WUDAPT Approach Towards Supporting Multi-Scale Fit for Purpose Intra-Urban Atmospheric Modeling and Analyses Applications",
-    "authors": "Ching, Jason and Mills, Gerald and Aliaga, Daniel G and Martilli, Alberto and Fung, Jimmy and Bechtel, Benjamin and Demuzure, Matthias and Middel, Ariane and Neophytou, Marina and Ren, Chao and Feddema, Johannes and Masson, Val\u00e9ry and See, Linda and Tapper, Nigel and Baklanov, Alexander and Ng, Edward and Yamagata, Yoshiki and Lau, Kevin and Niyogi, Dev",
+    "authors": "Ching, Jason and Mills, Gerald and Aliaga, Daniel G and Martilli, Alberto and Fung, Jimmy and Bechtel, Benjamin and Demuzure, Matthias and Middel, Ariane and Neophytou, Marina and Ren, Chao and Feddema, Johannes and Masson, Valéry and See, Linda and Tapper, Nigel and Baklanov, Alexander and Ng, Edward and Yamagata, Yoshiki and Lau, Kevin and Niyogi, Dev",
     "venue": "",
     "venueDetails": "",
     "year": 2020,
     "abstract": "",
     "doi": "",
     "pdf": "papers/WUDAPT_2020_Ching_Atmospheric_Modeling.pdf",
-    "bibtex": "@inproceedings{WUDAPT_2020_Ching,\n  title = {The WUDAPT Approach Towards Supporting Multi-Scale Fit for Purpose Intra-Urban Atmospheric Modeling and Analyses Applications},\n  author = {Ching, Jason and Mills, Gerald and Aliaga, Daniel G and Martilli, Alberto and Fung, Jimmy and Bechtel, Benjamin and Demuzure, Matthias and Middel, Ariane and Neophytou, Marina and Ren, Chao and Feddema, Johannes and Masson, Val\u00e9ry and See, Linda and Tapper, Nigel and Baklanov, Alexander and Ng, Edward and Yamagata, Yoshiki and Lau, Kevin and Niyogi, Dev},\n  year = {2020},\n  month = jan,\n  pdf = {WUDAPT_2020_Ching_Atmospheric_Modeling.pdf},\n  image = {WUDAPT_2020_Ching_Atmospheric_Modeling.jpg}\n}",
+    "bibtex": "@inproceedings{WUDAPT_2020_Ching,\n  title = {The WUDAPT Approach Towards Supporting Multi-Scale Fit for Purpose Intra-Urban Atmospheric Modeling and Analyses Applications},\n  author = {Ching, Jason and Mills, Gerald and Aliaga, Daniel G and Martilli, Alberto and Fung, Jimmy and Bechtel, Benjamin and Demuzure, Matthias and Middel, Ariane and Neophytou, Marina and Ren, Chao and Feddema, Johannes and Masson, Valéry and See, Linda and Tapper, Nigel and Baklanov, Alexander and Ng, Edward and Yamagata, Yoshiki and Lau, Kevin and Niyogi, Dev},\n  year = {2020},\n  month = jan,\n  pdf = {WUDAPT_2020_Ching_Atmospheric_Modeling.pdf},\n  image = {WUDAPT_2020_Ching_Atmospheric_Modeling.jpg}\n}",
     "thumbnail": "images/publications/WUDAPT_2020_Ching_Atmospheric_Modeling.jpg",
     "video": "",
     "code": "",
@@ -497,7 +497,7 @@
   },
   {
     "slug": "ching2019pathway-pathway-using-wudapt-s-digital-synthetic",
-    "title": "Pathway using WUDAPT\u2019s Digital Synthetic City tool towards generating urban canopy parameters for multi-scale urban atmospheric modeling",
+    "title": "Pathway using WUDAPT’s Digital Synthetic City tool towards generating urban canopy parameters for multi-scale urban atmospheric modeling",
     "authors": "Ching, Jason and Aliaga, Dan and Mills, Gerald and Masson, Valery and See, Linda and Neophytou, Marina and Middel, Ariane and Baklanov, Alexander and Ren, Chao and Ng, Ed and others",
     "venue": "Urban Climate",
     "venueDetails": "28, 100459",
@@ -643,7 +643,7 @@
   },
   {
     "slug": "chingwudapt-wudapt-s-next-generation-of-urban",
-    "title": "WUDAPT\u2019S NEXT GENERATION OF URBAN CANOPY PARAMETERS FOR ADVANCED MULTI-SCALE WEATHER, CLIMATE AND AIR QUALITY MODELS",
+    "title": "WUDAPT’S NEXT GENERATION OF URBAN CANOPY PARAMETERS FOR ADVANCED MULTI-SCALE WEATHER, CLIMATE AND AIR QUALITY MODELS",
     "authors": "Ching, Jason and Aliaga, Dan and Masson, Gerald Mills2 Valery and Hanna, Adel",
     "venue": "",
     "venueDetails": "",
@@ -1167,7 +1167,7 @@
   },
   {
     "slug": "aliaga2011decho-decho-a-framework-for-the-digital",
-    "title": "DECHO\u2014a framework for the digital exploration of cultural heritage objects",
+    "title": "DECHO—a framework for the digital exploration of cultural heritage objects",
     "authors": "Aliaga, Daniel G and Bertino, Elisa and Valtolina, Stefano",
     "venue": "Journal on Computing and Cultural Heritage (JOCCH)",
     "venueDetails": "3(3), 1--26",
@@ -1175,7 +1175,7 @@
     "abstract": "",
     "doi": "http://doi.org/10.1145/1921614.1921619",
     "pdf": "papers/Aliaga-JOCCH-2011-DECHO.pdf",
-    "bibtex": "@article{aliaga2011decho,\n  title = {DECHO\u2014a framework for the digital exploration of cultural heritage objects},\n  author = {Aliaga, Daniel G and Bertino, Elisa and Valtolina, Stefano},\n  journal = {Journal on Computing and Cultural Heritage (JOCCH)},\n  volume = {3},\n  number = {3},\n  pages = {1--26},\n  year = {2011},\n  publisher = {ACM New York, NY, USA},\n  doi = {10.1145/1921614.1921619},\n  image = {Aliaga-JOCCH-2011-DECHO.jpg},\n  pdf = {Aliaga-JOCCH-2011-DECHO.pdf}\n}",
+    "bibtex": "@article{aliaga2011decho,\n  title = {DECHO—a framework for the digital exploration of cultural heritage objects},\n  author = {Aliaga, Daniel G and Bertino, Elisa and Valtolina, Stefano},\n  journal = {Journal on Computing and Cultural Heritage (JOCCH)},\n  volume = {3},\n  number = {3},\n  pages = {1--26},\n  year = {2011},\n  publisher = {ACM New York, NY, USA},\n  doi = {10.1145/1921614.1921619},\n  image = {Aliaga-JOCCH-2011-DECHO.jpg},\n  pdf = {Aliaga-JOCCH-2011-DECHO.pdf}\n}",
     "thumbnail": "images/publications/Aliaga-JOCCH-2011-DECHO.jpg",
     "video": "",
     "code": "",
@@ -1242,12 +1242,12 @@
     "title": "Urban Ecosystem Design",
     "authors": "Benes, Bedrich and Massih, Michel Abdul and Jarvis, Philip and Aliaga, Daniel G. and Vanegas, Carlos A.",
     "venue": "Symposium on Interactive 3D Graphics and Games",
-    "venueDetails": "167\u2013174",
+    "venueDetails": "167–174",
     "year": 2011,
     "abstract": "",
     "doi": "http://doi.org/10.1145/1944745.1944773",
     "pdf": "papers/Benes-2011-Urban_Ecosystem_Design.pdf",
-    "bibtex": "@inproceedings{Benes11I3D,\n  title = {Urban Ecosystem Design},\n  author = {Benes, Bedrich and Massih, Michel Abdul and Jarvis, Philip and Aliaga, Daniel G. and Vanegas, Carlos A.},\n  year = {2011},\n  booktitle = {Symposium on Interactive 3D Graphics and Games},\n  location = {San Francisco, California},\n  publisher = {Association for Computing Machinery},\n  address = {New York, NY, USA},\n  series = {I3D \u201911},\n  pages = {167\u2013174},\n  doi = {10.1145/1944745.1944773},\n  isbn = {9781450305655},\n  numpages = {8},\n  keywords = {urban simulation, procedural modeling, virtual ecosystems},\n  image = {Benes-2011-Urban_Ecosystem_Design-thumbnail.jpg},\n  pdf = {Benes-2011-Urban_Ecosystem_Design.pdf}\n}",
+    "bibtex": "@inproceedings{Benes11I3D,\n  title = {Urban Ecosystem Design},\n  author = {Benes, Bedrich and Massih, Michel Abdul and Jarvis, Philip and Aliaga, Daniel G. and Vanegas, Carlos A.},\n  year = {2011},\n  booktitle = {Symposium on Interactive 3D Graphics and Games},\n  location = {San Francisco, California},\n  publisher = {Association for Computing Machinery},\n  address = {New York, NY, USA},\n  series = {I3D ’11},\n  pages = {167–174},\n  doi = {10.1145/1944745.1944773},\n  isbn = {9781450305655},\n  numpages = {8},\n  keywords = {urban simulation, procedural modeling, virtual ecosystems},\n  image = {Benes-2011-Urban_Ecosystem_Design-thumbnail.jpg},\n  pdf = {Benes-2011-Urban_Ecosystem_Design.pdf}\n}",
     "thumbnail": "images/publications/Benes-2011-Urban_Ecosystem_Design-thumbnail.jpg",
     "video": "",
     "code": "",
@@ -1520,7 +1520,7 @@
     "abstract": "",
     "doi": "http://doi.org/10.1145/1457515.1409113",
     "pdf": "papers/Aliaga-2008-Interactive_Example-Based_Urban_Layout_Synthesis.pdf",
-    "bibtex": "@inproceedings{Aliaga08ToG,\n  title = {Interactive Example-Based Urban Layout Synthesis},\n  author = {Aliaga, Daniel G. and Vanegas, Carlos A. and Benes, Bedrich},\n  year = {2008},\n  booktitle = {ACM SIGGRAPH Asia 2008 Papers},\n  location = {Singapore},\n  publisher = {Association for Computing Machinery},\n  address = {New York, NY, USA},\n  series = {SIGGRAPH Asia \u201908},\n  doi = {10.1145/1457515.1409113},\n  isbn = {9781450318310},\n  url = {https://doi.org/10.1145/1457515.1409113},\n  articleno = {160},\n  numpages = {10},\n  image = {Aliaga-2008-Interactive_Example-Based_Urban_Layout_Synthesis-thumbnail.jpg},\n  pdf = {Aliaga-2008-Interactive_Example-Based_Urban_Layout_Synthesis.pdf}\n}",
+    "bibtex": "@inproceedings{Aliaga08ToG,\n  title = {Interactive Example-Based Urban Layout Synthesis},\n  author = {Aliaga, Daniel G. and Vanegas, Carlos A. and Benes, Bedrich},\n  year = {2008},\n  booktitle = {ACM SIGGRAPH Asia 2008 Papers},\n  location = {Singapore},\n  publisher = {Association for Computing Machinery},\n  address = {New York, NY, USA},\n  series = {SIGGRAPH Asia ’08},\n  doi = {10.1145/1457515.1409113},\n  isbn = {9781450318310},\n  url = {https://doi.org/10.1145/1457515.1409113},\n  articleno = {160},\n  numpages = {10},\n  image = {Aliaga-2008-Interactive_Example-Based_Urban_Layout_Synthesis-thumbnail.jpg},\n  pdf = {Aliaga-2008-Interactive_Example-Based_Urban_Layout_Synthesis.pdf}\n}",
     "thumbnail": "images/publications/Aliaga-2008-Interactive_Example-Based_Urban_Layout_Synthesis-thumbnail.jpg",
     "video": "",
     "code": "",
@@ -2176,7 +2176,7 @@
   },
   {
     "slug": "aliaga1993prototyping-prototyping-of-graphing-tools-by-direct",
-    "title": "Prototyping of Graphing Tools by Direct GUI Composition\u2014an Experience Report",
+    "title": "Prototyping of Graphing Tools by Direct GUI Composition—an Experience Report",
     "authors": "Aliaga, Daniel G and Schneider-Hufschmidt, Matthias",
     "venue": "Requirements Engineering'93: Prototyping",
     "venueDetails": "317--334",
@@ -2184,7 +2184,7 @@
     "abstract": "",
     "doi": "http://doi.org/10.1007/978-3-322-94703-1_21",
     "pdf": "papers/Aliaga-Requirements_Engineering-1993-Implementation_Of_Graphing_Tools_By_Direct_GUI-Composition.pdf",
-    "bibtex": "@incollection{aliaga1993prototyping,\n  title = {Prototyping of Graphing Tools by Direct GUI Composition\u2014an Experience Report},\n  author = {Aliaga, Daniel G and Schneider-Hufschmidt, Matthias},\n  booktitle = {Requirements Engineering'93: Prototyping},\n  pages = {317--334},\n  year = {1993},\n  publisher = {Springer},\n  doi = {10.1007/978-3-322-94703-1_21},\n  image = {Aliaga-Requirements_Engineering-1993-Implementation_Of_Graphing_Tools_By_Direct_GUI-Composition.jpg},\n  pdf = {Aliaga-Requirements_Engineering-1993-Implementation_Of_Graphing_Tools_By_Direct_GUI-Composition.pdf}\n}",
+    "bibtex": "@incollection{aliaga1993prototyping,\n  title = {Prototyping of Graphing Tools by Direct GUI Composition—an Experience Report},\n  author = {Aliaga, Daniel G and Schneider-Hufschmidt, Matthias},\n  booktitle = {Requirements Engineering'93: Prototyping},\n  pages = {317--334},\n  year = {1993},\n  publisher = {Springer},\n  doi = {10.1007/978-3-322-94703-1_21},\n  image = {Aliaga-Requirements_Engineering-1993-Implementation_Of_Graphing_Tools_By_Direct_GUI-Composition.jpg},\n  pdf = {Aliaga-Requirements_Engineering-1993-Implementation_Of_Graphing_Tools_By_Direct_GUI-Composition.pdf}\n}",
     "thumbnail": "images/publications/Aliaga-Requirements_Engineering-1993-Implementation_Of_Graphing_Tools_By_Direct_GUI-Composition.jpg",
     "video": "",
     "code": "",
@@ -2206,6 +2206,115 @@
     "code": "",
     "tags": [
       "simulation-visual-computing"
+    ]
+  },
+  {
+    "slug": "he2026-urban-layout-foundation",
+    "title": "AI-based Urban Layout Foundation Model",
+    "authors": "He, L., Kamath, H., Niyogi, D., Fei, S., & Aliaga, D.",
+    "venue": "npj Urban Sustainability",
+    "venueDetails": "6, 87",
+    "year": 2026,
+    "abstract": "Accurate urban geometric layouts are critical for urban planning, simulation, and sustainability management; however, no ideal solution currently exists for large-scale urban geometric layout creation. We propose a generative AI-based urban layout model capable of encoding arbitrary 3D city blocks to a unified latent representation and generating urban layouts for the 330 cities in North America that have over 100,000 inhabitants. Given only a few percentage of the city blocks, our approach is able to generate an entire realistic 3D city, to support street-scale physical simulations, to predict social-economic metrics, and to enable \"what-if\" scenarios for policy-making. Compared to data-driven approaches, ours provides a unified representation suitable for large-scale urban simulation and policy-making as part of a digital twin framework, which would otherwise require a time- and resource-consuming process of obtaining the position, geometry, and height of all buildings individually.",
+    "doi": "https://doi.org/10.1038/s42949-026-00369-2",
+    "pdf": "papers/npjus2026-urban-layout.pdf",
+    "bibtex": "@article{He26UrbanLayout,\n  author = {He, Liu and Kamath, Harsh and Niyogi, Dev and Fei, Songlin and Aliaga, Daniel},\n  title = {AI-based Urban Layout Foundation Model},\n  journal = {npj Urban Sustainability},\n  year = {2026},\n  volume = {6},\n  number = {},\n  pages = {87},\n  doi = {10.1038/s42949-026-00369-2}\n}",
+    "thumbnail": "images/publications/foundation-urban-layout.jpg",
+    "video": "",
+    "code": "",
+    "tags": [
+      "generative-procedural-modeling",
+      "geospatial-modeling"
+    ]
+  },
+  {
+    "slug": "aliaga2024-digitizing-cities-urban-weather",
+    "title": "Digitizing cities for urban weather: representing realistic cities for weather and climate simulations using computer graphics and artificial intelligence",
+    "authors": "Aliaga, D., & Niyogi, D.",
+    "venue": "Computational Urban Science",
+    "venueDetails": "4, 8",
+    "year": 2024,
+    "abstract": "Due to their importance in weather and climate assessments, there is significant interest to represent cities in numerical prediction models. However, getting high resolution multi-faceted data about a city has been a challenge. Further, even when the data were available the integration into a model is even more of a challenge due to the parametric needs, and the data volumes. Further, even if this is achieved, the cities themselves continually evolve rendering the data obsolete, thus necessitating a fast and repeatable data capture mechanism. We have shown that by using AI/graphics community advances we can create a seamless opportunity for high resolution models. Instead of assuming every physical and behavioral detail is sensed, a generative and procedural approach seeks to computationally infer a fully detailed 3D fit-for-purpose model of an urban space. We present a perspective building on recent success results of this generative approach applied to urban design and planning at different scales, for different components of the urban landscape, and related applications. The opportunities now possible with such a generative model for urban modeling open a wide range of opportunities as this becomes mainstream.",
+    "doi": "https://doi.org/10.1007/s43762-023-00111-z",
+    "pdf": "papers/cus2024-digitalcities.pdf",
+    "bibtex": "@article{Aliaga24Digitizing,\n  author = {Aliaga, Daniel and Niyogi, Dev},\n  title = {Digitizing cities for urban weather: representing realistic cities for weather and climate simulations using computer graphics and artificial intelligence},\n  journal = {Computational Urban Science},\n  year = {2024},\n  volume = {4},\n  pages = {8},\n  doi = {10.1007/s43762-023-00111-z}\n}",
+    "thumbnail": "images/publications/digitizing-cities.jpg",
+    "video": "",
+    "code": "",
+    "tags": [
+      "geospatial-modeling"
+    ]
+  },
+  {
+    "slug": "kamath2024-utglobus-building-heights",
+    "title": "GLObal Building heights for Urban Studies (UT-GLOBUS) for city- and street-scale urban simulations: Development and first applications",
+    "authors": "Kamath, H., Singh, M., Malviya, N., Martilli, A., He, L., Aliaga, D., He, C., Chen, F., Magruder, L., Yang, Z. L., & Niyogi, D.",
+    "venue": "Scientific Data",
+    "venueDetails": "11, 886",
+    "year": 2024,
+    "abstract": "We introduce University of Texas - GLObal Building heights for Urban Studies (UT-GLOBUS), a dataset providing building heights and urban canopy parameters (UCPs) for more than 1200 city or locales worldwide. UT-GLOBUS combines open-source spaceborne altimetry (ICESat-2 and GEDI) and coarse-resolution urban canopy elevation data with a machine-learning model to estimate building-level information. Validation using LiDAR data from six U.S. cities showed UT-GLOBUS-derived building heights had a root mean squared error (RMSE) of 9.1 meters. Validation of mean building heights within 1-km² grid cells, including data from Hamburg and Sydney, resulted in an RMSE of 7.8 meters. Testing the UCPs in the urban Weather Research and Forecasting (WRF-Urban) model resulted in a significant improvement (55% in RMSE) in intra-urban air temperature representation compared to the existing table-based local climate zone approach in Houston, TX. Additionally, we demonstrated the dataset's utility for simulating heat mitigation strategies and building energy consumption using WRF-Urban, with test cases in Chicago, IL, and Austin, TX. Street-scale mean radiant temperature simulations using the SOlar and LongWave Environmental Irradiance Geometry (SOLWEIG) model, incorporating UT-GLOBUS and LiDAR-derived building heights, confirmed the dataset's effectiveness in modeling human thermal comfort in Baltimore, MD (daytime RMSE = 2.85°C). Thus, UT-GLOBUS can be used for modeling urban hazards with significant socioeconomic and biometeorological risks, enabling finer scale urban climate simulations and overcoming previous limitations due to the lack of building information.",
+    "doi": "https://doi.org/10.1038/s41597-024-03719-w",
+    "pdf": "papers/nsd2024-utglobus.pdf",
+    "bibtex": "@article{Kamath24GLOBUS,\n  author = {Kamath, Harsh and Singh, Manmeet and Malviya, Naveen and Martilli, Alberto and He, Liu and Aliaga, Daniel and He, Cenlin and Chen, Fei and Magruder, Lori and Yang, Zong-Liang and Niyogi, Dev},\n  title = {GLObal Building heights for Urban Studies (UT-GLOBUS) for city- and street-scale urban simulations: Development and first applications},\n  journal = {Scientific Data},\n  year = {2024},\n  volume = {11},\n  pages = {886},\n  doi = {10.1038/s41597-024-03719-w}\n}",
+    "thumbnail": "images/publications/utglobus.jpg",
+    "video": "",
+    "code": "",
+    "tags": [
+      "geospatial-modeling"
+    ]
+  },
+  {
+    "slug": "thapa2024-tree-species-identification",
+    "title": "Application of multi-temporal satellite imagery for urban tree species identification",
+    "authors": "Thapa, B., Darling, L., Choi, D., Ardohain, C., Firoze, A., Aliaga, D., Hardiman, B., & Fei, S.",
+    "venue": "Urban Forestry & Urban Greening",
+    "venueDetails": "98, 128409",
+    "year": 2024,
+    "abstract": "Accurate tree inventories are critical for urban forest management but challenging to obtain, as many urban trees are on private property (backyards, etc.) and are excluded from public inventories. Here, we examined the feasibility of tree species identification in a large heterogenous urban area (>850 km2) by using multi-temporal PlanetScope images (3.2 m resolution, multi-spectral) and inventory data from more than 20,000 ground observations within the urban forest of the Greater Chicago area. Our approach achieved an overall classification accuracy of 0.60 and 0.71 for 18 species and ten genera, respectively, but varied from moderate to high for certain species (0.59–0.92) and genera (0.61–0.91). In particular, we identified key host tree species (Fraxinus americana, F. pennsylvanica, and Acer saccharinum) for two damaging invasive insects, emerald ash borer (EAB, Agrilus planipennis) and Asian longhorn beetle (ALB, Anoplophora glabripennis), with over 0.80 accuracies. In addition, we demonstrated that including images from the autumn months (September–November), either for a single-season model or a combined multiple-season model, improved the identification accuracy of temperate deciduous trees. Further, the high classification accuracy of support vector machine (SVM) over random forest (RF) and neural network (NN) approaches suggests that future work might benefit from comparing multiple classification methods to select the approach that maximizes species classification accuracy. Our study demonstrated the potential for applying multi-temporal high-resolution images in urban tree classification, which can be used for urban forest management at a large spatial scale.",
+    "doi": "https://doi.org/10.1016/j.ufug.2024.128409",
+    "pdf": "papers/ufug2024-treespecies.pdf",
+    "bibtex": "@article{Thapa24TreeSpecies,\n  author = {Thapa, Bhuwan and Darling, Lindsay and Choi, Dawn and Ardohain, Christa and Firoze, Adnan and Aliaga, Daniel and Hardiman, Brady and Fei, Songlin},\n  title = {Application of multi-temporal satellite imagery for urban tree species identification},\n  journal = {Urban Forestry \\& Urban Greening},\n  year = {2024},\n  volume = {98},\n  pages = {128409},\n  doi = {10.1016/j.ufug.2024.128409}\n}",
+    "thumbnail": "images/publications/tree-species-chicago.jpg",
+    "video": "",
+    "code": "",
+    "tags": [
+      "geospatial-modeling"
+    ]
+  },
+  {
+    "slug": "patel2023-hurricane-rainfall-urban",
+    "title": "Impact of Urban Representation on Simulation of Hurricane Rainfall",
+    "authors": "Patel, P., Ankur, K., Jamshidi, S., Tiwari, A., Nadimpalli, R., Busireddy, N. K. R., Safaee, S., Osuri, K. K., Karmakar, S., Ghosh, S., Aliaga, D., Smith, J., Marks, F., Yang, Z., & Niyogi, D.",
+    "venue": "Geophysical Research Letters",
+    "venueDetails": "50(20), e2023GL104078",
+    "year": 2023,
+    "abstract": "Taking the examples of Hurricane Florence (2018) over the Carolinas and Hurricane Harvey (2017) over the Texas Gulf Coast, the study attempts to understand the performance of slab, single-layer Urban Canopy Model (UCM), and Building Environment Parameterization (BEP) in simulating hurricane rainfall using the Weather Research and Forecasting (WRF) model. The WRF model simulations showed that for an intense, large-scale event such as a hurricane, the model quantitative precipitation forecast over the urban domain was sensitive to the model urban physics. The spatial and temporal verification using the modified Kling-Gupta efficiency and Method for Object based Diagnostic and Evaluation in Time Domain suggests that UCM performance is superior to the BEP scheme. Additionally, using the BEP urban physics scheme over UCM for landfalling hurricane rainfall simulations has helped simulate heavy rainfall hotspots.",
+    "doi": "https://doi.org/10.1029/2023GL104078",
+    "pdf": "papers/grl2023-hurricane-rainfall.pdf",
+    "bibtex": "@article{Patel23Hurricane,\n  author = {Patel, Pratiman and Ankur, Komaragiri and Jamshidi, Sajad and Tiwari, Abhinav and Nadimpalli, Rakesh and Busireddy, Naveen K. R. and Safaee, Sara and Osuri, Krishna K. and Karmakar, Subhankar and Ghosh, Subimal and Aliaga, Daniel and Smith, James and Marks, Frank and Yang, Zhaohui and Niyogi, Dev},\n  title = {Impact of Urban Representation on Simulation of Hurricane Rainfall},\n  journal = {Geophysical Research Letters},\n  year = {2023},\n  volume = {50},\n  number = {20},\n  pages = {e2023GL104078},\n  doi = {10.1029/2023GL104078}\n}",
+    "thumbnail": "images/publications/hurricane-rainfall.jpg",
+    "video": "",
+    "code": "",
+    "tags": [
+      "geospatial-modeling"
+    ]
+  },
+  {
+    "slug": "yoshi2023-heat-island-random-forest",
+    "title": "Predicting Urban Heat Island Mitigation with Random Forest Regression in Belgian Cities",
+    "authors": "Yoshi, M., Aliaga, D., & Teller, J.",
+    "venue": "Intelligence for Future Cities (The Urban Book Series), Springer",
+    "venueDetails": "305–323",
+    "year": 2023,
+    "abstract": "An abundance of impervious surfaces like building roofs in densely populated cities make green roofs a suitable solution for urban heat island (UHI) mitigation. Therefore, we employ random forest (RF) regression to predict the impact of green roofs on the surface UHI (SUHI) in Liege, Belgium. While there have been several studies identifying the impact of green roofs on UHI, fewer studies utilize a remote-sensing-based approach to measure impact on Land Surface Temperatures (LST) that are used to estimate SUHI. Moreover, the RF algorithm, can provide useful insights. In this study, we use LST obtained from Landsat-8 imagery and relate it to 2D and 3D morphological parameters that influence LST and UHI effects. Additionally, we utilise parameters that influence wind (e.g., frontal area index). We simulate the green roofs by assigning suitable values of normalised difference-vegetation index and built-up index to the buildings with flat roofs. Results suggest that green roofs decrease the average LST.",
+    "doi": "https://doi.org/10.1007/978-3-031-31746-0_16",
+    "pdf": "papers/springer2023-heatisland-rf.pdf",
+    "bibtex": "@incollection{Yoshi23HeatIsland,\n  author = {Yoshi, Motoya and Aliaga, Daniel and Teller, Jacques},\n  title = {Predicting Urban Heat Island Mitigation with Random Forest Regression in Belgian Cities},\n  booktitle = {Intelligence for Future Cities},\n  series = {The Urban Book Series},\n  publisher = {Springer Nature},\n  year = {2023},\n  pages = {305--323},\n  doi = {10.1007/978-3-031-31746-0_16}\n}",
+    "thumbnail": "images/publications/heatisland-green-roofs.jpg",
+    "video": "",
+    "code": "",
+    "tags": [
+      "geospatial-modeling"
     ]
   }
 ]
