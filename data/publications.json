@@ -10,7 +10,7 @@
     "doi": "https://arxiv.org/abs/2507.08513",
     "pdf": "",
     "bibtex": "@misc{he2025advancingmultimodalllmslargescale,\n  title = {Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation},\n  author = {Liu He and Xiao Zeng and Yizhi Song and Albert Y. C. Chen and Lu Xia and Shashwat Verma and Sankalp Dayal and Min Sun and Cheng-Hao Kuo and Daniel Aliaga},\n  year = {2025},\n  eprint = {2507.08513},\n  archivePrefix = {arXiv},\n  primaryClass = {cs.GR},\n  url = {https://arxiv.org/abs/2507.08513}\n}",
-    "thumbnail": "images/publications/he2026-wacv-ultimate3d.png",
+    "thumbnail": "images/publications/he2026-wacv-ultimate3d.jpg",
     "video": "",
     "code": "",
     "tags": [
@@ -29,7 +29,7 @@
     "doi": "https://arxiv.org/abs/2606.31680v1",
     "pdf": "",
     "bibtex": "@misc{xu2026shellmakerlanguageguidedexteriorcompletion,\n      title={ShellMaker: Language-Guided Exterior Completion under Structural Constraints}, \n      author={Ruiqi Xu and Daniel Aliaga},\n      year={2026},\n      eprint={2606.31680},\n      archivePrefix={arXiv},\n      primaryClass={cs.CV},\n      url={https://arxiv.org/abs/2606.31680}, \n}s",
-    "thumbnail": "images/publications/xu2026-shellmaker.png",
+    "thumbnail": "images/publications/xu2026-shellmaker.jpg",
     "video": "",
     "code": "",
     "tags": [
@@ -47,7 +47,7 @@
     "doi": "https://arxiv.org/abs/2505.19415",
     "pdf": "",
     "bibtex": "@misc{hua2025mmigbenchcomprehensiveexplainableevaluation,\n      title={MMIG-Bench: Towards Comprehensive and Explainable Evaluation of Multi-Modal Image Generation Models}, \n      author={Hang Hua and Ziyun Zeng and Yizhi Song and Yunlong Tang and Liu He and Daniel Aliaga and Wei Xiong and Jiebo Luo},\n      year={2025},\n      eprint={2505.19415},\n      archivePrefix={arXiv},\n      primaryClass={cs.CV},\n      url={https://arxiv.org/abs/2505.19415}, \n}",
-    "thumbnail": "images/publications/hua2025-mmig-bench.png",
+    "thumbnail": "images/publications/hua2025-mmig-bench.jpg",
     "video": "",
     "code": "",
     "tags": [
@@ -65,7 +65,7 @@
     "doi": "https://arxiv.org/abs/2408.10453",
     "pdf": "",
     "bibtex": "@misc{he2025kubrickmultimodalagentcollaborations,\n      title={Kubrick: Multimodal Agent Collaborations for Synthetic Video Generation}, \n      author={Liu He and Yizhi Song and Hejun Huang and Pinxin Liu and Yunlong Tang and Daniel Aliaga and Xin Zhou},\n      year={2025},\n      eprint={2408.10453},\n      archivePrefix={arXiv},\n      primaryClass={cs.CV},\n      url={https://arxiv.org/abs/2408.10453}, \n}",
-    "thumbnail": "images/publications/he2025-kubrick.png",
+    "thumbnail": "images/publications/he2025-kubrick.jpg",
     "video": "",
     "code": "",
     "tags": [
@@ -84,7 +84,7 @@
     "doi": "https://arxiv.org/abs/2412.00306",
     "pdf": "",
     "bibtex": "@misc{song2024refinebyalignreferenceguidedartifactsrefinement,\n      title={Refine-by-Align: Reference-Guided Artifacts Refinement through Semantic Alignment}, \n      author={Yizhi Song and Liu He and Zhifei Zhang and Soo Ye Kim and He Zhang and Wei Xiong and Zhe Lin and Brian Price and Scott Cohen and Jianming Zhang and Daniel Aliaga},\n      year={2024},\n      eprint={2412.00306},\n      archivePrefix={arXiv},\n      primaryClass={cs.CV},\n      url={https://arxiv.org/abs/2412.00306}, \n}",
-    "thumbnail": "images/publications/song2025-refine-by-align.png",
+    "thumbnail": "images/publications/song2025-refine-by-align.jpg",
     "video": "",
     "code": "",
     "tags": [
@@ -102,7 +102,7 @@
     "doi": "https://arxiv.org/abs/2403.10701",
     "pdf": "",
     "bibtex": "\n@misc{song2024imprintgenerativeobjectcompositing,\n      title={IMPRINT: Generative Object Compositing by Learning Identity-Preserving Representation}, \n      author={Yizhi Song and Zhifei Zhang and Zhe Lin and Scott Cohen and Brian Price and Jianming Zhang and Soo Ye Kim and He Zhang and Wei Xiong and Daniel Aliaga},\n      year={2024},\n      eprint={2403.10701},\n      archivePrefix={arXiv},\n      primaryClass={cs.CV},\n      url={https://arxiv.org/abs/2403.10701}, \n}\n",
-    "thumbnail": "images/publications/song2024-imprint.png",
+    "thumbnail": "images/publications/song2024-imprint.jpg",
     "video": "",
     "code": "",
     "tags": [
@@ -120,7 +120,7 @@
     "doi": "https://eccv.ecva.net/virtual/2024/poster/2405",
     "pdf": "",
     "bibtex": "@inproceedings{may2024epipolargan,\n  title={EpipolarGAN: Omnidirectional Image Synthesis with Explicit Camera Control},\n  author={May, Christopher and Aliaga, Daniel},\n  booktitle={European Conference on Computer Vision},\n  pages={341--357},\n  year={2024},\n  organization={Springer}\n}",
-    "thumbnail": "images/publications/may2024-epipolargan.png",
+    "thumbnail": "images/publications/may2024-epipolargan.jpg",
     "video": "",
     "code": "",
     "tags": [
