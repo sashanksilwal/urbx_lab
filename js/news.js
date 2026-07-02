@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     // Render each item as a card with date, title + type badge, and description
     root.innerHTML = allItems.map(item => `
       <div class="news-item">
-        <div class="news-date">${new Date(item.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</div>
+        <div class="news-date">${new Date(item.date + 'T00:00:00').toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</div>
         <h3>
           ${item.link ? `<a href="${item.link}">${item.title}</a>` : item.title}
           <span class="news-type-badge ${item.type || 'general'}">${item.type || 'general'}</span>

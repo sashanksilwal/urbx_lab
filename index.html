@@ -136,10 +136,10 @@
       // Latest news
       try {
         const news = await fetchData('data/news.json');
-        const sorted = news.sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 5);
+        const sorted = news.sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 10);
         document.getElementById('latest-news').innerHTML = sorted.map(n => `
           <div class="news-item">
-            <div class="news-date">${new Date(n.date).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}</div>
+            <div class="news-date">${new Date(n.date + 'T00:00:00').toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}</div>
             <h3>${n.link ? `<a href="${n.link}">${n.title}</a>` : n.title}
               <span class="news-type-badge ${n.type}">${n.type}</span>
             </h3>
