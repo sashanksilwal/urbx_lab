@@ -1,5 +1,153 @@
 [
   {
+    "slug": "he2026-wacv-ultimate3d",
+    "title": "Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation",
+    "authors": "He, L., Zeng, X., Song, Y., Chen, A., Xia, L., Verma, S., Dayal, S., Sun, M., Kuo, C., & Aliaga, D.",
+    "venue": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+    "venueDetails": "",
+    "year": 2026,
+    "abstract": "Multimodal Large Language Models (MLLMs) struggle with accurately capturing camera-object relations, especially for object orientation, camera viewpoint, and camera shots. This stems from the fact that existing MLLMs are trained on images with limited diverse camera-object relations and corresponding textual descriptions. To address this, we propose a synthetic generation pipeline to create large-scale 3D visual instruction datasets. Our framework takes 3D assets as input and uses rendering and diffusion-based image generation models to create photorealistic images preserving precise camera-object relations. Additionally, large language models (LLMs) are used to generate text prompts for guiding visual instruction tuning and controlling image generation. We create Ultimate3D, a dataset of 240K VQAs with precise camera-object annotations, and corresponding benchmark. MLLMs fine-tuned on our proposed dataset outperform commercial models by a large margin, achieving an average accuracy improvement of 33.4% on camera-object relation recognition tasks. Our code, dataset, and benchmark will contribute to broad MLLM applications.",
+    "doi": "https://arxiv.org/abs/2507.08513",
+    "pdf": "",
+    "bibtex": "@misc{he2025advancingmultimodalllmslargescale,\n  title = {Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation},\n  author = {Liu He and Xiao Zeng and Yizhi Song and Albert Y. C. Chen and Lu Xia and Shashwat Verma and Sankalp Dayal and Min Sun and Cheng-Hao Kuo and Daniel Aliaga},\n  year = {2025},\n  eprint = {2507.08513},\n  archivePrefix = {arXiv},\n  primaryClass = {cs.GR},\n  url = {https://arxiv.org/abs/2507.08513}\n}",
+    "thumbnail": "images/publications/he2026-wacv-ultimate3d.png",
+    "video": "",
+    "code": "",
+    "tags": [
+      "generative-procedural-modeling",
+      "imaging-3d-reconstruction"
+    ]
+  },
+  {
+    "slug": "xu2026-shellmaker",
+    "title": "ShellMaker: Language-Guided Exterior Completion under Structural Constraints",
+    "authors": "Xu, R., & Aliaga, D.",
+    "venue": "European Conference on Computer Vision (ECCV)",
+    "venueDetails": "",
+    "year": 2026,
+    "abstract": "Despite advances in indoor scene generation, synthesizing coherent building exteriors consistent with generated interiors remains largely unexplored. Existing methods can generate floor plans and wall layouts but typically stop at a structural shell, lacking stylistically consistent facades and roofs. Completing these exteriors is challenging because the footprint, wall geometry, and opening semantics must remain fixed-constraints that unconstrained generative models often violate. We introduce ShellMaker, a language-guided exterior completion framework that operates under these structural constraints. Given a building scaffold and a text style prompt, ShellMaker generates a complete exterior mesh with PBR materials by combining parametric roof generation, LLM-based part-aware prompt refinement, joint wall-roof material retrieval, and geometry-aware assembly. Operating on a format agnostic scaffold representation, ShellMaker generalizes to indoor generators, CityGML, and CAD inputs, while maintaining structural consistency and improving architectural coherence over retrieval and unconstrained generative baselines.",
+    "doi": "https://arxiv.org/abs/2606.31680v1",
+    "pdf": "",
+    "bibtex": "@misc{xu2026shellmakerlanguageguidedexteriorcompletion,\n      title={ShellMaker: Language-Guided Exterior Completion under Structural Constraints}, \n      author={Ruiqi Xu and Daniel Aliaga},\n      year={2026},\n      eprint={2606.31680},\n      archivePrefix={arXiv},\n      primaryClass={cs.CV},\n      url={https://arxiv.org/abs/2606.31680}, \n}s",
+    "thumbnail": "images/publications/xu2026-shellmaker.png",
+    "video": "",
+    "code": "",
+    "tags": [
+      "generative-procedural-modeling"
+    ]
+  },
+  {
+    "slug": "hua2025-mmig-bench",
+    "title": "MMIG-Bench: Towards Comprehensive and Explainable Evaluation of Multi-Modal Image Generation Models",
+    "authors": "Hua, H., Zeng, Z., Song, Y., Tang, Y., He, L., Aliaga, D., Xiong, W., & Luo, J.",
+    "venue": "Neural Information Processing Systems (NeurIPS)",
+    "venueDetails": "",
+    "year": 2025,
+    "abstract": "Recent multimodal image generators such as GPT-4o, Gemini 2.0 Flash, and Gemini 2.5 Pro excel at following complex instructions, editing images and maintaining concept consistency. However, they are still evaluated by disjoint toolkits: text-to-image (T2I) benchmarks that lacks multi-modal conditioning, and customized image generation benchmarks that overlook compositional semantics and common knowledge. We propose MMIG-Bench, a comprehensive Multi-Modal Image Generation Benchmark that unifies these tasks by pairing 4,850 richly annotated text prompts with 1,750 multi-view reference images across 380 subjects, spanning humans, animals, objects, and artistic styles. MMIG-Bench is equipped with a three-level evaluation framework: (1) low-level metrics for visual artifacts and identity preservation of objects; (2) novel Aspect Matching Score (AMS): a VQA-based mid-level metric that delivers fine-grained prompt-image alignment and shows strong correlation with human judgments; and (3) high-level metrics for aesthetics and human preference. Using MMIG-Bench, we benchmark 17 state-of-the-art models, including Gemini 2.5 Pro, FLUX, DreamBooth, and IP-Adapter, and validate our metrics with 32k human ratings, yielding in-depth insights into architecture and data design.",
+    "doi": "https://arxiv.org/abs/2505.19415",
+    "pdf": "",
+    "bibtex": "@misc{hua2025mmigbenchcomprehensiveexplainableevaluation,\n      title={MMIG-Bench: Towards Comprehensive and Explainable Evaluation of Multi-Modal Image Generation Models}, \n      author={Hang Hua and Ziyun Zeng and Yizhi Song and Yunlong Tang and Liu He and Daniel Aliaga and Wei Xiong and Jiebo Luo},\n      year={2025},\n      eprint={2505.19415},\n      archivePrefix={arXiv},\n      primaryClass={cs.CV},\n      url={https://arxiv.org/abs/2505.19415}, \n}",
+    "thumbnail": "images/publications/hua2025-mmig-bench.png",
+    "video": "",
+    "code": "",
+    "tags": [
+      "generative-procedural-modeling"
+    ]
+  },
+  {
+    "slug": "he2025-kubrick",
+    "title": "Kubrick: Multimodal Agent Collaborations for Synthetic Video Generation",
+    "authors": "He, L., Song, Y., Huang, H., Liu, P., Tang, Y., Aliaga, D., & Zhou, X.",
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops",
+    "venueDetails": "Workshop on AI for Content Creation",
+    "year": 2025,
+    "abstract": "Text-to-video generation has been dominated by diffusion-based or autoregressive models. These novel models provide plausible versatility, but are criticized for improper physical motion, shading and illumination, camera motion, and temporal consistency. The film industry relies on manually-edited Computer-Generated Imagery (CGI) using 3D modeling software. Human-directed 3D synthetic videos address these shortcomings, but require tight collaboration between movie makers and 3D rendering experts. We introduce an automatic synthetic video generation pipeline based on Vision Large Language Model (VLM) agent collaborations. Given a language description of a video, multiple VLM agents direct various processes of the generation pipeline. They cooperate to create Blender scripts which render a video following the given description. Augmented with Blender-based movie making knowledge, the Director agent decomposes the text-based video description into sub-processes. For each sub-process, the Programmer agent produces Python-based Blender scripts based on function composing and API calling. The Reviewer agent, with knowledge of video reviewing, character motion coordinates, and intermediate screenshots, provides feedback to the Programmer agent. The Programmer agent iteratively improves scripts to yield the best video outcome. Our generated videos show better quality than commercial video generation models in five metrics on video quality and instruction-following performance. Our framework outperforms other approaches in a user study on quality, consistency, and rationality.",
+    "doi": "https://arxiv.org/abs/2408.10453",
+    "pdf": "",
+    "bibtex": "@misc{he2025kubrickmultimodalagentcollaborations,\n      title={Kubrick: Multimodal Agent Collaborations for Synthetic Video Generation}, \n      author={Liu He and Yizhi Song and Hejun Huang and Pinxin Liu and Yunlong Tang and Daniel Aliaga and Xin Zhou},\n      year={2025},\n      eprint={2408.10453},\n      archivePrefix={arXiv},\n      primaryClass={cs.CV},\n      url={https://arxiv.org/abs/2408.10453}, \n}",
+    "thumbnail": "images/publications/he2025-kubrick.png",
+    "video": "",
+    "code": "",
+    "tags": [
+      "generative-procedural-modeling",
+      "simulation-visual-computing"
+    ]
+  },
+  {
+    "slug": "song2025-refine-by-align",
+    "title": "Refine-by-Align: Reference-Guided Artifacts Refinement through Semantic Alignment",
+    "authors": "Song, Y., He, L., Zhang, Z., Kim, S., Zhang, H., Xiong, W., Lin, Z., Price, B., Cohen, S., Zhang, J., & Aliaga, D.",
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "venueDetails": "",
+    "year": 2025,
+    "abstract": "Personalized image generation has emerged from the recent advancements in generative models. However, these generated personalized images often suffer from localized artifacts such as incorrect logos, reducing fidelity and fine-grained identity details of the generated results. Furthermore, there is little prior work tackling this problem. To help improve these identity details in the personalized image generation, we introduce a new task: reference-guided artifacts refinement. We present Refine-by-Align, a first-of-its-kind model that employs a diffusion-based framework to address this challenge. Our model consists of two stages: Alignment Stage and Refinement Stage, which share weights of a unified neural network model. Given a generated image, a masked artifact region, and a reference image, the alignment stage identifies and extracts the corresponding regional features in the reference, which are then used by the refinement stage to fix the artifacts. Our model-agnostic pipeline requires no test-time tuning or optimization. It automatically enhances image fidelity and reference identity in the generated image, generalizing well to existing models on various tasks including but not limited to customization, generative compositing, view synthesis, and virtual try-on. Extensive experiments and comparisons demonstrate that our pipeline greatly pushes the boundary of fine details in the image synthesis models.",
+    "doi": "https://arxiv.org/abs/2412.00306",
+    "pdf": "",
+    "bibtex": "@misc{song2024refinebyalignreferenceguidedartifactsrefinement,\n      title={Refine-by-Align: Reference-Guided Artifacts Refinement through Semantic Alignment}, \n      author={Yizhi Song and Liu He and Zhifei Zhang and Soo Ye Kim and He Zhang and Wei Xiong and Zhe Lin and Brian Price and Scott Cohen and Jianming Zhang and Daniel Aliaga},\n      year={2024},\n      eprint={2412.00306},\n      archivePrefix={arXiv},\n      primaryClass={cs.CV},\n      url={https://arxiv.org/abs/2412.00306}, \n}",
+    "thumbnail": "images/publications/song2025-refine-by-align.png",
+    "video": "",
+    "code": "",
+    "tags": [
+      "generative-procedural-modeling"
+    ]
+  },
+  {
+    "slug": "song2024-imprint",
+    "title": "IMPRINT: Generative Object Compositing by Learning Identity-Preserving Representation",
+    "authors": "Song, Y., Zhang, Z., Lin, Z., Cohen, S., Price, B., Zhang, J., Kim, S., Zhang, H., & Aliaga, D.",
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "venueDetails": "",
+    "year": 2024,
+    "abstract": "Generative object compositing emerges as a promising new avenue for compositional image editing. However, the requirement of object identity preservation poses a significant challenge, limiting practical usage of most existing methods. In response, this paper introduces IMPRINT, a novel diffusion-based generative model trained with a two-stage learning framework that decouples learning of identity preservation from that of compositing. The first stage is targeted for context-agnostic, identity-preserving pretraining of the object encoder, enabling the encoder to learn an embedding that is both view-invariant and conducive to enhanced detail preservation. The subsequent stage leverages this representation to learn seamless harmonization of the object composited to the background. In addition, IMPRINT incorporates a shape-guidance mechanism offering user-directed control over the compositing process. Extensive experiments demonstrate that IMPRINT significantly outperforms existing methods and various baselines on identity preservation and composition quality.",
+    "doi": "https://arxiv.org/abs/2403.10701",
+    "pdf": "",
+    "bibtex": "\n@misc{song2024imprintgenerativeobjectcompositing,\n      title={IMPRINT: Generative Object Compositing by Learning Identity-Preserving Representation}, \n      author={Yizhi Song and Zhifei Zhang and Zhe Lin and Scott Cohen and Brian Price and Jianming Zhang and Soo Ye Kim and He Zhang and Wei Xiong and Daniel Aliaga},\n      year={2024},\n      eprint={2403.10701},\n      archivePrefix={arXiv},\n      primaryClass={cs.CV},\n      url={https://arxiv.org/abs/2403.10701}, \n}\n",
+    "thumbnail": "images/publications/song2024-imprint.png",
+    "video": "",
+    "code": "",
+    "tags": [
+      "generative-procedural-modeling"
+    ]
+  },
+  {
+    "slug": "may2024-epipolargan",
+    "title": "EpipolarGAN: Omnidirectional Image Synthesis with Explicit Camera Control",
+    "authors": "May, C., & Aliaga, D.",
+    "venue": "European Conference on Computer Vision (ECCV)",
+    "venueDetails": "",
+    "year": 2024,
+    "abstract": "In recent years, generative networks have achieved high quality results in 3D-aware image synthesis. However, most prior approaches focus on outside-in generation of a single object or face, as opposed to full inside-looking-out scenes. Those that do generate scenes typically require depth/pose information, or do not provide camera positioning control. We introduce EpipolarGAN, an omnidirectional Generative Adversarial Network for interior scene synthesis that does not need depth information, yet allows for direct control over the camera viewpoint. Rather than conditioning on an input position, we directly resample the input features to simulate a change of perspective. To reinforce consistency between viewpoints, we introduce an epipolar loss term that employs feature matching along epipolar arcs in the feature-rich intermediate layers of the network. We validate our results with comparisons to recent methods, and we formulate a generative reconstruction metric to evaluate multi-view consistency.",
+    "doi": "https://eccv.ecva.net/virtual/2024/poster/2405",
+    "pdf": "",
+    "bibtex": "@inproceedings{may2024epipolargan,\n  title={EpipolarGAN: Omnidirectional Image Synthesis with Explicit Camera Control},\n  author={May, Christopher and Aliaga, Daniel},\n  booktitle={European Conference on Computer Vision},\n  pages={341--357},\n  year={2024},\n  organization={Springer}\n}",
+    "thumbnail": "images/publications/may2024-epipolargan.png",
+    "video": "",
+    "code": "",
+    "tags": [
+      "generative-procedural-modeling",
+      "imaging-3d-reconstruction"
+    ]
+  },
+  {
+    "slug": "he2024-coho",
+    "title": "COHO: Context-Sensitive City-Scale Hierarchical Urban Layout Generation",
+    "authors": "He, L., & Aliaga, D.",
+    "venue": "European Conference on Computer Vision (ECCV)",
+    "venueDetails": "",
+    "year": 2024,
+    "abstract": "The generation of large-scale urban layouts has garnered substantial interest across various disciplines. Prior methods have utilized procedural generation requiring manual rule coding or deep learning needing abundant data. However, prior approaches have not considered the context-sensitive nature of urban layout generation. Our approach addresses this gap by leveraging a canonical graph representation for the entire city, which facilitates scalability and captures the multi-layer semantics inherent in urban layouts. We introduce a novel graph-based masked autoencoder (GMAE) for city-scale urban layout generation. The method encodes attributed buildings, city blocks, communities and cities into a unified graph structure, enabling self-supervised masked training for graph autoencoder. Additionally, we employ scheduled iterative sampling for 2.5D layout generation, prioritizing the generation of important city blocks and buildings. Our approach achieves good realism, semantic consistency, and correctness across the heterogeneous urban styles in 330 US cities.",
+    "doi": "https://arxiv.org/abs/2407.11294",
+    "pdf": "",
+    "bibtex": "@misc{he2024cohocontextsensitivecityscalehierarchical,\n      title={COHO: Context-Sensitive City-Scale Hierarchical Urban Layout Generation}, \n      author={Liu He and Daniel Aliaga},\n      year={2024},\n      eprint={2407.11294},\n      archivePrefix={arXiv},\n      primaryClass={cs.CV},\n      url={https://arxiv.org/abs/2407.11294}, \n}",
+    "thumbnail": "images/publications/he2024-coho.jpg",
+    "video": "",
+    "code": "",
+    "tags": [
+      "generative-procedural-modeling",
+      "geospatial-modeling"
+    ]
+  },
+  {
     "slug": "firoze2026-building-segmentation",
     "title": "Building Instance Segmentation for Dense Urban Settlements",
     "authors": "Firoze, A., Yeh, R. A., & Aliaga, D.",
