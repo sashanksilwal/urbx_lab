@@ -1,9 +1,51 @@
 [
   {
-    "date": "2026-03-31",
-    "title": "Paper accepted at Communications of the ACM",
-    "description": "Our paper \"Where Are the City Trees?\" on monitoring urban trees using generative AI has been published in CACM.",
+    "date": "2026-06-15",
+    "title": "Paper accepted at ECCV 2026",
+    "description": "Xu et al.’s paper “ShellMaker: Language-Guided Exterior Completion under Structural Constraints” was accepted at ECCV 2026.",
+    "link": "",
+    "type": "publication"
+  },
+  {
+    "date": "2026-06-02",
+    "title": "Summer 2026: Arsh Gupta and Connor Hayden join the lab",
+    "description": "Arsh Gupta and Connor Hayden joined the lab to work on quantum computing for computer vision.",
+    "link": "",
+    "type": "member"
+  },
+  {
+    "date": "2026-06-01",
+    "title": "Summer 2026: Rami Hage joins the lab",
+    "description": "Rami Hage joined the lab to work on GPU optimization for preventive motion blur processing.",
+    "link": "",
+    "type": "member"
+  },
+  {
+    "date": "2026-04-20",
+    "title": "Daniel Aliaga promoted to Full Professor",
+    "description": "Prof. Daniel Aliaga was promoted to Full Professor of Computer Science, effective August 2026.",
+    "link": "",
+    "type": "award"
+  },
+  {
+    "date": "2026-04-15",
+    "title": "Paper published in npj Urban Sustainability",
+    "description": "He et al.’s “AI-based Urban Layout Foundation Model” was published in npj Urban Sustainability (Nature Portfolio).",
+    "link": "publication.html?id=he2026-urban-layout-foundation",
+    "type": "publication"
+  },
+  {
+    "date": "2026-04-01",
+    "title": "Cover article published in Communications of the ACM",
+    "description": "Adnan Firoze et al.’s “Where Are the City Trees? Monitoring Urban Trees across the U.S. Using Generative AI” was published in CACM (Vol. 69, Issue 4) and featured as the cover article.",
     "link": "publication.html?id=firoze2026-city-trees",
+    "type": "publication"
+  },
+  {
+    "date": "2026-03-15",
+    "title": "Paper published at WACV 2026",
+    "description": "He et al.’s paper “Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation” was published at WACV 2026.",
+    "link": "",
     "type": "publication"
   },
   {
@@ -14,9 +56,23 @@
     "type": "general"
   },
   {
+    "date": "2026-01-20",
+    "title": "$2.5M NSF grant awarded (FIRE-WUI)",
+    "description": "Prof. Daniel Aliaga, as co-PI, received a $2.5M NSF grant, “FIRE-WUI: Community Resilience Assessment Framework for Wildfires using Multi-Resolution Digital Twins.”",
+    "link": "",
+    "type": "grant"
+  },
+  {
+    "date": "2026-01-15",
+    "title": "Daniel Aliaga receives Seed for Success Award",
+    "description": "Prof. Daniel Aliaga received Purdue’s Seed for Success Award.",
+    "link": "",
+    "type": "award"
+  },
+  {
     "date": "2026-01-14",
-    "title": "Paper accepted at AAAI 2026",
-    "description": "Adnan Firoze's paper on building instance segmentation for dense urban settlements accepted at AAAI 2026.",
+    "title": "Paper published at AAAI 2026",
+    "description": "Adnan Firoze et al.’s paper “Building Instance Segmentation for Dense Urban Settlements” was published at AAAI 2026.",
     "link": "publication.html?id=firoze2026-building-segmentation",
     "type": "publication"
   }

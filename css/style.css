@@ -938,6 +938,8 @@ img { max-width: 100%; height: auto; }
 }
 .news-type-badge.award { background: #fef3cd; color: #92710c; }
 .news-type-badge.publication { background: #d4edda; color: #155724; }
+.news-type-badge.grant { background: #cfe0fc; color: #1c3d6e; }
+.news-type-badge.member { background: #e7dcf7; color: #5b2a86; }
 .news-type-badge.general { background: #e2e3e5; color: #383d41; }
 
 /* ---- Animations ---- */
