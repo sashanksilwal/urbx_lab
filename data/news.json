@@ -3,7 +3,7 @@
     "date": "2026-06-15",
     "title": "Paper accepted at ECCV 2026",
     "description": "Xu et al.’s paper “ShellMaker: Language-Guided Exterior Completion under Structural Constraints” was accepted at ECCV 2026.",
-    "link": "",
+    "link": "publication.html?id=xu2026-shellmaker",
     "type": "publication"
   },
   {
@@ -45,7 +45,7 @@
     "date": "2026-03-15",
     "title": "Paper published at WACV 2026",
     "description": "He et al.’s paper “Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation” was published at WACV 2026.",
-    "link": "",
+    "link": "publication.html?id=he2026-wacv-ultimate3d",
     "type": "publication"
   },
   {
