@@ -71,11 +71,13 @@ document.addEventListener('DOMContentLoaded', async () => {
       html += `<div class="abstract"><h2>Abstract</h2><p>${pub.abstract}</p></div>`;
     }
 
-    // Embedded PDF viewer (renders the PDF inline if path is provided)
+    // Embedded PDF viewer (renders the PDF inline if path is provided).
+    // ?v=2 busts caches poisoned while the server still sent X-Frame-Options: DENY
+    // on PDFs (a 304 revalidation keeps the stale header, so reloads never recover).
     if (pub.pdf) {
       html += `<div style="margin-top:1.5rem;">
         <h2 style="font-size:1.2rem;color:var(--color-primary);margin-bottom:0.75rem;">Paper</h2>
-        <iframe src="${pub.pdf}" width="100%" height="600" style="border:1px solid var(--color-border);border-radius:8px;"></iframe>
+        <iframe src="${pub.pdf}?v=2" width="100%" height="600" style="border:1px solid var(--color-border);border-radius:8px;"></iframe>
       </div>`;
     }
 
