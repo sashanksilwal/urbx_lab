@@ -1,2 +1,12 @@
 # Block web access to git metadata (repo is on GitHub; no need to serve .git)
 RedirectMatch 404 /\.git(/|$)
+
+# The department Apache config sends X-Frame-Options: DENY on everything,
+# which blocks the publication pages' inline PDF viewer (same-origin iframe).
+# Remove it for PDFs only so they can be embedded.
+<IfModule mod_headers.c>
+  <FilesMatch "\.pdf$">
+    Header always unset X-Frame-Options
+    Header unset X-Frame-Options
+  </FilesMatch>
+</IfModule>
