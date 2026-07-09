@@ -71,15 +71,13 @@ document.addEventListener('DOMContentLoaded', async () => {
       html += `<div class="abstract"><h2>Abstract</h2><p>${pub.abstract}</p></div>`;
     }
 
-    // Embedded PDF viewer disabled: the server sends X-Frame-Options: DENY,
-    // so browsers refuse to render the PDF in an iframe ("refused to connect").
-    // Restore once the header is removed for PDFs (see .htaccess) or switch to PDF.js.
-    // if (pub.pdf) {
-    //   html += `<div style="margin-top:1.5rem;">
-    //     <h2 style="font-size:1.2rem;color:var(--color-primary);margin-bottom:0.75rem;">Paper</h2>
-    //     <iframe src="${pub.pdf}" width="100%" height="600" style="border:1px solid var(--color-border);border-radius:8px;"></iframe>
-    //   </div>`;
-    // }
+    // Embedded PDF viewer (renders the PDF inline if path is provided)
+    if (pub.pdf) {
+      html += `<div style="margin-top:1.5rem;">
+        <h2 style="font-size:1.2rem;color:var(--color-primary);margin-bottom:0.75rem;">Paper</h2>
+        <iframe src="${pub.pdf}" width="100%" height="600" style="border:1px solid var(--color-border);border-radius:8px;"></iframe>
+      </div>`;
+    }
 
     // Back link
     html += `<div style="margin-top:2rem;"><a href="publications.html">&larr; Back to all publications</a></div>`;
