@@ -1,5 +1,23 @@
 [
   {
+    "slug": "waltz2026-urbane",
+    "title": "Urbane: Urban Reasoning And Block Adjustment Via Natural-Language Editing",
+    "authors": "Waltz, T., Vera, J., & Aliaga, D.",
+    "venue": "International Conference on Pattern Recognition (ICPR)",
+    "venueDetails": "",
+    "year": 2026,
+    "abstract": "",
+    "doi": "",
+    "pdf": "",
+    "bibtex": "",
+    "thumbnail": "images/publications/waltz2026-urbane.jpg",
+    "video": "",
+    "code": "",
+    "tags": [
+      "generative-procedural-modeling"
+    ]
+  },
+  {
     "slug": "he2026-wacv-ultimate3d",
     "title": "Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation",
     "authors": "He, L., Zeng, X., Song, Y., Chen, A., Xia, L., Verma, S., Dayal, S., Sun, M., Kuo, C., & Aliaga, D.",
