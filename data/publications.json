@@ -1,5 +1,25 @@
 [
   {
+    "slug": "tezcan2026-conflated-inverse-modeling",
+    "title": "Conflated Inverse Modeling to Generate Diverse and Temperature-Change Inducing Urban Vegetation Patterns",
+    "authors": "Tezcan, B. S., Viswanath, H., Saher, R., & Aliaga, D.",
+    "venue": "CVPR 2026 EarthVision Workshop",
+    "venueDetails": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, pp. 8053-8062",
+    "year": 2026,
+    "abstract": "Urban areas are increasingly vulnerable to thermal extremes driven by rapid urbanization and climate change. Traditionally, thermal extremes have been monitored using Earth-observing satellites and numerical modeling frameworks. For example, land surface temperature derived from Landsat or Sentinel imagery is commonly used to characterize surface heating patterns. These approaches operate as forward models, translating radiative observations or modeled boundary conditions into estimates of surface thermal states. While forward models can predict land surface temperature from vegetation and urban form, the inverse problem of determining spatial vegetation configurations that achieve a desired regional temperature shift remains largely unexplored. This task is inherently underdetermined, as multiple spatial vegetation patterns can yield similar aggregated temperature responses. Conventional regression and deterministic neural networks fail to capture this ambiguity and often produce averaged solutions, particularly under data-scarce conditions. We propose a conflated inverse modeling framework that combines a predictive forward model with a diffusion-based generative inverse model to produce diverse, physically plausible image-based vegetation patterns conditioned on specific temperature goals. Our framework maintains control over thermal outcomes while enabling diverse spatial vegetation configurations, even when such combinations are absent from training data. Altogether, this work introduces a controllable inverse modeling approach for urban climate adaptation that accounts for the inherent diversity of the problem.",
+    "doi": "https://doi.org/10.48550/arXiv.2604.13028",
+    "pdf": "papers/tezcan2026-conflated-inverse-modeling.pdf",
+    "bibtex": "@InProceedings{Tezcan_2026_CVPR,\n  author = {Tezcan, Baris Sarper and Viswanath, Hrishikesh and Saher, Rubab and Aliaga, Daniel},\n  title = {Conflated Inverse Modeling to Generate Diverse and Temperature-Change Inducing Urban Vegetation Patterns},\n  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},\n  month = {June},\n  year = {2026},\n  pages = {8053--8062}\n}",
+    "thumbnail": "images/publications/conflated-inverse-modeling.png",
+    "video": "",
+    "code": "",
+    "tags": [
+      "generative-procedural-modeling",
+      "geospatial-modeling",
+      "simulation-visual-computing"
+    ]
+  },
+  {
     "slug": "waltz2026-urbane",
     "title": "URBANE: Urban Reasoning and Block Adjustment via Natural-Language Editing",
     "authors": "Waltz, T., Vera, J., & Aliaga, D.",
