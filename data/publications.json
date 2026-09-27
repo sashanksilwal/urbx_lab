@@ -10,7 +10,7 @@
     "doi": "https://doi.org/10.48550/arXiv.2604.13028",
     "pdf": "papers/tezcan2026-conflated-inverse-modeling.pdf",
     "bibtex": "@InProceedings{Tezcan_2026_CVPR,\n  author = {Tezcan, Baris Sarper and Viswanath, Hrishikesh and Saher, Rubab and Aliaga, Daniel},\n  title = {Conflated Inverse Modeling to Generate Diverse and Temperature-Change Inducing Urban Vegetation Patterns},\n  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},\n  month = {June},\n  year = {2026},\n  pages = {8053--8062}\n}",
-    "thumbnail": "images/publications/conflated-inverse-modeling.png",
+    "thumbnail": "images/publications/conflated-inverse-modeling.jpg",
     "video": "",
     "code": "",
     "tags": [
